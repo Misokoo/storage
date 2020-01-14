@@ -1,0 +1,10 @@
+configurer le portforwarning
+192.blabla pour free
+redirige le port de début vers le port de destination qu'on met à 22
+
+ca se parametre sur internet dans mon routeur
+redirection /baux DHCP
+avec redicrection de portforwarning
+port externe =port de la box
+ip de destination =ip de lord doné par la box
+port inter=port du pc

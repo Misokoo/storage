@@ -1,0 +1,39 @@
+internet: reseau pour comuniquer entre ordi
+web: un service dinternet
+
+Des clients : c’est vous, votre ordinateur qui sert à aller consulter des sites web.
+Des serveurs : ce sont des ordinateurs spéciaux (souvent très puissants) qui envoient les sites web aux clients. Les serveurs "possèdent" les sites web et les distribuent à ceux qui veulent les visiter.
+
+site web responsive: qui sadapte aux différents format
+Une application native : créer une applicaton lourde pour les trucs complexe
+Les frameworks sont des boîtes à outils qui facilitent l’usage des langages serveur.
+
+DNS signifie 'Domaine Name Service'
+
+
+
+protocole bas niveau à la base d'internet : TCP et UDP
+protocole haut niveau :
+HTTP : le protocole qui permet d’échanger des pages web entre le client et le serveur.
+FTP : permet d’échanger des fichiers.
+SMTP; permet echanger des mail
+
+la baie: "colonne" où les serveurs sont entassés les uns sur les autres
+
+
+Développeur·se Frontend : développe sur les langages frontend utilisés par les clients (HTML, CSS, JavaScript)
+Développeur·se Backend : développe sur des langages serveur (backend), comme PHP, Java, Python...
+QA Manager : teste les pages créées par les développeurs frontend et backend
+SysAdmin : s’occupe des serveurs (installation, configuration des logiciels, etc.). Un·e sysadmin fournit en somme l’environnement de travail des développeurs.
+Développeur·se Fullstack : il s’agit généralement d’une personne qui sait aussi bien travailler sur du frontend que sur du backend
+
+
+////////////////////////////ligne de commande/////////////////////////////////////
+host nomdedomain ==> on obtient toutes les adresses ip du server
+
+curl https://google.com --head /* appelle un serveur et donne le protocole et info */
+/*HTTP/2 301 le nombre apres http decrit le server, 200 pour OK, faut ladresse complete avec wwww*/
+option -v pour plus de détails, nos requetes sont apres le >
+
+
+datacenter à visiter!

@@ -1,0 +1,92 @@
+pour compiler un fichier et transformer en ps il faut
+1) transformer le fichier .tex en .dvi
+2) transformer le fichier .dvi en .ps
+
+latex lefichier.tex
+ps2pdf lefichier.dvi
+
+le compiler direct en .pdf, et lafficher
+pdflatex lefichier.tex
+xpdf lefichier.pdf
+
+
+--------------------------------------------syntaxe package -------------------------------
+\usepackage[latin1]{inputenc} % un package
+\usepackage[T1]{fontenc}      % un second package
+\usepackage[francais]{babel}  % un troisième package
+
+------------------------------------------------Rapport-------------------------------
+
+\appendix   pour mettre des annexe apres ça, sur les chapitres dans rapport et livre, sur les sections dans le reste
+\documentclass{report}
+\chapter    que dans rapport et livre
+
+\\ ou \newline sauter une ligne
+\newpage saut de page
+
+\documentclass{article} article book document lettre
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-------------------------------------------exemple pre fait ------------------------------------
+\documentclass{report}
+\usepackage[latin1]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[francais]{babel}
+
+\begin{document}
+
+\part{Partie}
+\chapter{Chapitre}
+\section{Section}
+\subsection{Une sous-section}
+\end{document}
+-------------------------------------------------------------------------------------------------------
+Struct de base d'un document latex:
+
+\documentclass{report}
+\usepackage[latin1]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[francais]{babel}
+\begin{document}
+\part{Partie}
+\chapter{premier chapitre}
+\chapter{second chapitre}
+\chapter{troisième chapitre}
+\chapter{quatrième chapire}
+\chapter{cinquième chapitre}
+\chapter{sixième chapitre}
+\appendix
+\chapter{Un schéma}
+% Pas besoin de changer de commande pour transformer un chapitre en annexe grâce à appendix
+\chapter{Un article annexe}
+\chapter{Un canard}
+\end{document}
+
+
+\chapter*{nom du chapitre} pour ne pas numeroter un chapitre (avec letoile)
+
+page de garde (avant le \begin)
+\makefile
+\title{}
+\author
+\date
+le titre du document (commande \title{votre titre}) ;
+l'auteur (commande \author{les noms des auteurs}) ;
+la date (commande \date{la date que vous souhaitez})
+
+pour ajencer le texte:
+\begin{nom de l'environnement}
+\end{nom de l'environnement}
+avec flushright, flushleft et center

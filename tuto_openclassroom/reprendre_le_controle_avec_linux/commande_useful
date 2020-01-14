@@ -1,0 +1,34 @@
+$a et ${a} cest pareil
+find -name "blabla"
+locate monfichier
+find -name "blabla" -exec rm {} \;
+uniq fichier dest
+cut -d, -f 3- lefichier.csv
+w affiche plein dinfo useful
+uptime (temps epuis cb de tems on est co
+
+who : affiche les users dun serveur
+ps : affiche les processus actels
+ps -ef : tous les processus par tout le monde
+ps -u user
+top : liste dunamique des processus, puis on enchane avec k + le num du PID a kill
+exemple drole :
+ps -u mikoso | grep firefox
+kill firefox PID
+
+kill -9 PID ca le detruit de force
+killall nomps     ça tue tous les processus avec ce nom (pas besoin du pid) ex: killall atom, renvoie rien si tout s'est bien passé
+
+sudo halt : fait arreter lordanteur
+sudo reboot : fait redemarrer lordi
+/* ces deux commandes proviennent de la commande shutdown avec des options,go checker le man pour faire des arrets programmer */
+
+macommande &      /*permet de mettre le processus en background */
+    ou
+nohup macommande  //censer etre détacher de la console le processus
+CTRL+Z            /*met le processus en pause  dans larriere plan(on recupere l'utilisation du terminal), on peut enchainer avec `bg` pour mettre le processus action en background  */
+
+jobs /* affiche les processus en arriere plan */
+bg                        /*met en arriere plan un processus */
+fg %indiceprocess         /* met le processus dindice donne en frontgroudn */
+bg %ips

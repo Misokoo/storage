@@ -1,0 +1,52 @@
+\documentclass{report}
+
+\usepackage[latin1]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[francais]{babel}
+
+\begin{document}
+
+\part{Partie}
+\chapter{Chapitre}
+\section{Section}
+\subsection{Une sous-section}
+moniteur : on met en parallele l'execution du prog avec un affichage de programme/ lecture 
+de carte.
+Multi-programmation : pour faire genre à l'utilisateur que  plusieurs programme s'execute en meme temps: le processeur va accorder une petite qtte de temps à chaque programme tres court, du coup on le voit même pas.
+Le superviseur charge plusieurs programmes en mémoire :Ilorsque le programme en cours demande une E/S, le superviseur demarre le programme suivantIlorsque le contrôleur d’E/S signale la fin de l’E/S, le premierprogramme reprend son exécution
+
+petit soucis:
+pour le processeur lexecution dun user et d'un autre osef.
+mais probleme de sécurite dacces des prog dun user a lautre.
+on delegue ça au systeme.
+si on veut faire des commandes systeme, ca va passer par le systeme qui verifiera si les appels du programme ont le droit ou pas de faire ce quils font.
+noyau = ens du code de l'OS.
+tiers de confiance : OS.
+==> E/S ==>passage en mode privilégié 
+        ==>execution dans de code noyau
+        ===> verif necessaire ==>ok dans lexe de 
+                                ==> ko erreur
+
+systeme exploitation aujourdui: noyau + applications systemes. (genre terminal/ interface graphique, etc)
+        
+        
+
+\subsection{Une sous-section2}
+
+\paragraph{mon para}
+cours fichiers
+table des descripteurs propre a chaque programme, chaque ligne correspont a des fichiers ou quoi, et de base ya les 3 descripteurs de base, pour le code sortie on met le 1er chiffre dispo apres les 012 et autre code pris.
+
+table des fichiers ouverts, 3colonnes importantes (puis plein dautre mais osef pour now:
+nb entree (code descripteur), mode douverture et loffset.
+on clean la ligne quand on ferme le fichier.
+lalgo pour faire une ligne prend le 1er entier libre et fait une ligne.
+a chaque fois que l'on ouvre un fichier, peut y avoir plusieurs lignes créé, si jamais on enchaine un wreate et trunc par exemple.
+
+lseek renvoie le nb doctect dont la tete s'est déplacée.
+\subparagraph{monsubpara}
+ non, sagittis non sapien.
+Donec interdum pretium venenatis. Pellentesque aliquam convallis convallis.
+Fusce tincidunt orci eu velit varius luctus. Etiam iaculis viverra enim ac varius.
+Duis pretium elit eu eros auctor vel iaculis nulla commodo. Aliquam interdum fermentum orci sed fringilla.
+\end{document}
