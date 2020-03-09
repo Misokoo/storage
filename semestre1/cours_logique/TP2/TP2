@@ -1,0 +1,259 @@
+
+Section Partie1.
+
+
+Lemma q19 (X : Type) (A B : X -> Prop) :
+  ((forall x, A x) \/ (forall x, B x)) -> forall x, A x \/ B x.
+Proof.
+intro.
+destruct H.
+intro.
+left.
+apply H.
+intro.
+right.
+apply H.
+Qed.
+
+
+Lemma q20 (X : Type) (A B : X -> Prop) :
+  (exists x, A x /\ B x) -> ((exists x, A x) /\ (exists x, B x)).
+
+Proof.
+intro.
+destruct H.
+destruct H.
+split.
+exists x.
+apply H.
+exists x.
+apply H0.
+Qed.
+
+
+
+Variables 
+ (A:Type)
+ (P Q:A -> Prop).
+
+
+
+Lemma ex_or : (exists x:A, P x \/ Q x) -> ex P \/ ex Q.
+Proof.
+intro.
+destruct H.
+destruct H.
+left.
+exists x.
+apply H.
+right.
+exists x.
+apply H.
+Qed.
+ 
+Lemma ex_or_R : ex P \/ ex Q -> (exists x:A, P x \/ Q x).
+Proof.
+intro.
+destruct H.
+destruct H.
+exists x.
+left.
+apply H.
+destruct H.
+exists x.
+right.
+apply H.
+Qed.
+
+Definition RFalse (x: A) := False.
+
+Lemma two_is_three : 
+(exists x:A, forall R : A->Prop, R x) -> 2 = 3.
+Proof.
+intro.
+destruct H.
+apply False_ind.
+apply (H RFalse).
+Qed.
+
+Lemma forall_no_ex : (forall x:A, P x) -> ~(exists y:A, ~ P y).
+Proof.
+intro.
+intro.
+destruct H0.
+apply H0.
+apply H.
+Qed.
+
+
+
+End Partie1.
+
+
+
+
+
+Section Partie2.
+
+
+
+Check 2 + 3.
+
+Definition three := 3.
+Check three.
+
+
+Definition add3 (x : nat) := x + 3.
+
+Definition add3_v2 := fun x : nat => x + 3.
+
+Check add3.
+Check add3_v2.
+
+Eval compute in add3 2.
+Check add3 (add3 2).
+Eval compute in add3 (add3 2).
+
+
+Definition s3 (x y z : nat) := x + y + z.
+Check s3.
+Check s3 2.
+Check s3 1 2.
+
+
+Definition applique (f : nat -> nat)(x:nat) := f (f x).
+Check applique.
+Check applique add3 2.
+Check applique add3.
+Eval compute in applique add3 2.
+
+Check (3,4).
+
+Require Import Arith.
+Open Scope nat_scope.
+Check (3, O, S, S (S O)).
+
+Check S(O).
+Eval compute in S(S(O)).
+
+
+
+Definition is_zero (n:nat) :=
+    match n with
+    | 0 => true
+    | S p => false
+    end.
+
+
+Print pred.
+
+Fixpoint sum_n n :=
+ match n with
+ | 0 => 0
+ | S p => S(p) + sum_n p
+ end.
+
+Eval compute in sum_n 4.
+
+
+Fixpoint sum_n2 n s :=
+match n with
+| 0 => s
+| S p => sum_n2 p (S(p) + s)
+end.
+
+Eval compute in sum_n2 4 0.
+
+Fixpoint evenb n :=
+match n with
+| 0 => true
+| 1 => false
+| S p => true
+end.
+
+Fixpoint egalite (a b:nat) :=
+match a with
+| 0 => match b with
+  |0 => true
+  | S p => false
+  end
+| S p => match  b with
+  | 0 => false
+  | S p' => egalite p p'
+  end
+end.
+
+Eval compute in evenb 16.
+
+
+(* ecrire la fonction pour qu'elle retourne
+true ssi n est impair *)
+Definition oddb (n : nat) := true.
+
+
+(* ecrire la fonction pour qu'elle retourne
+le factoriel de n *)
+Fixpoint fact (n:nat) : nat := 0.
+
+
+(* ecrire la fonction pour qu'elle retourne
+le produit de n par m sans utiliser l'opérateur * 
+*)
+Fixpoint nxm (n m : nat) := O.
+
+
+Lemma exemple1 : forall n, 0 + n = n.
+Proof.
+admit.
+Qed.
+
+Lemma exemple2 : forall n, n + 0 = n.
+Proof.
+admit.
+Qed.
+
+
+Lemma exemple3 : forall n, n + m = m + n.
+Proof.
+admit.
+Qed.
+
+
+
+
+
+Check le_n.
+Check le_S.
+
+
+
+
+SearchRewrite (_ * (_ + _)).
+SearchRewrite ((_ + _) * _).
+SearchRewrite (_ + (_ + _)).
+SearchPattern (?x * ?y = ?y * ?x).
+SearchRewrite (S _ * _).
+
+(* pour démontrer le lemme suivant il nous faut des règles de réécritures *)
+(* on peut les appeler en donnant des précision sur le nom des variables a remplacer
+ou sur quelle occurence remplacer
+ex: 
+rewrite mult_comm with (n:= y) (m:=x).
+pattern (x * y) at 1; rewrite <- mult_1_l.
+
+ *)
+
+Lemma exemple4 : forall x y, (x + y) * (x + y) = x*x + 2*x*y + y*y.
+Proof.
+admit.
+Qed.
+
+
+
+Lemma sum_n_p : forall n, 2 * sum_n n + n = n * n.
+Proof.
+admit.
+Qed.
+
+
+End Partie2.

@@ -1,0 +1,167 @@
+.flex_container
+{
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+}
+
+
+
+.flex_child1
+{
+  background-color:white;
+  height:auto;
+  display:flex;
+  flex-direction:row;
+}
+.myimg
+{
+  width: 100px;
+  height: 100px;
+}
+
+.flex_child1 nav
+{
+  margin-left: auto;
+  margin-right: 5px;
+}
+
+.flex_child1 li
+{
+  display: inline;
+  margin-right: 5px;
+}
+
+
+
+
+/* pour la partie basse du site, on fait un grid */
+.flex_child2
+{
+  display: grid;
+  grid-template-columns: 150px 1fr; /* celui de gauche fait 10% le reste en 1 fraction */
+}
+
+
+
+
+.item_left
+{
+  background-color: #070a4f;
+  grid-column-start: 1;
+  grid-column-end: 2;
+  border-top-left-radius: 20px;
+}
+
+.item_left a
+{
+  color: green;
+  text-decoration: underline;
+}
+
+.item_left li
+{
+  margin-top: 4px;
+  list-style: none;
+}
+
+
+
+
+
+
+
+.item_right
+{
+  background-color: white;
+  grid-column-start: 2;
+  grid-column-end: 3;
+  padding-bottom: 20px;
+}
+
+.item_right table
+{
+  width: 100%;
+}
+
+.titre_page
+{
+  border-bottom: 2px solid green;
+}
+
+
+.bouton_client
+{
+  border: 1px solid green;
+  box-shadow: 4px 4px 5px green;
+  margin-left: auto;
+  width: 150px;
+  height : 40px;
+  vertical-align: middle;
+  margin-top: 10px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+
+
+
+
+.bouton_client p
+{
+  color: green;
+  text-align: center;
+}
+
+footer
+{
+  border-top-width: 2px;
+  border-top-style: solid;
+  border-top-color: black;
+}
+
+footer p
+{
+  color: green;
+  text-decoration: underline;
+}
+
+.flex_child1 a
+{
+  color: black;
+  text-decoration: none;
+}
+
+
+
+
+
+/* tableau dans index*/
+table tr:nth-child(odd){
+  background-color:white;
+}
+
+table tr:nth-child(even){
+  background-color:#d7c5c2;
+}
+
+
+/* la page edit.html */
+.button
+{
+  display:flex;
+  justify-content: space-between;
+  margin-top:10px;
+  margin-left: 10px;
+}
+
+.button button
+{
+  box-shadow: 4px 4px 5px black;
+  border: solid 1px black;
+  padding:4px;
+}
+
+.text_form
+{
+  width:100%;
+}

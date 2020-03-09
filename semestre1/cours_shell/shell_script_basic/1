@@ -1,0 +1,24 @@
+total 1352
+-rw-r--r-- 1 mikoso mikoso       0 oct.  28 22:11 1
+-rw-r--r-- 1 mikoso mikoso      11 oct.  23 14:45 acompter
+-rwxrw-r-- 1 mikoso mikoso 1244041 oct.  17 10:13 Capture d’écran de 2019-10-17 10-13-44.png
+-rw-r--r-- 1 mikoso mikoso     375 oct.  23 15:24 Evaluation_dexpression.sh
+-rw-r--r-- 1 mikoso mikoso     299 oct.  24 01:17 ManipulationDeFichiers.sh
+-rw-r--r-- 1 mikoso mikoso      34 oct.  23 14:33 OUTPUT
+-rw-r--r-- 1 mikoso mikoso     145 oct.  23 14:41 personnes.dat
+-rw-r--r-- 1 mikoso mikoso      72 oct.  28 21:16 ps_interactif.sh
+-rw-r--r-- 1 mikoso mikoso      76 oct.  23 15:25 qte.dat
+-rw-r--r-- 1 mikoso mikoso     185 oct.  28 12:58 rm_empty_dir.sh
+-rw-r--r-- 1 mikoso mikoso     473 oct.  22 22:48 script_gestion_des_fichiers.sh
+-rw-r--r-- 1 mikoso mikoso     574 oct.  23 14:43 Selections_de_lignes_et_colonnes.sh
+-rw-r--r-- 1 mikoso mikoso      85 oct.  23 14:45 select.sh
+-rw-r--r-- 1 mikoso mikoso     200 oct.  28 21:29 sequence.sh
+-rw-r--r-- 1 mikoso mikoso     426 oct.  28 12:33 structureDeControle.sh
+-rw-r--r-- 1 mikoso mikoso     139 oct.  23 15:46 sumcol.sh
+-rw-r--r-- 1 mikoso mikoso      31 oct.  28 22:10 tell_type.sh
+-rw-r--r-- 1 mikoso mikoso     141 oct.  28 13:23 type_fichier_for.sh
+-rw-r--r-- 1 mikoso mikoso     180 oct.  28 13:00 type_fichier.sh
+-rw-r--r-- 1 mikoso mikoso      74 oct.  23 14:21 underscoreFile
+-rw-r--r-- 1 mikoso mikoso   60770 oct.  28 16:22 user
+-rw-r--r-- 1 mikoso mikoso     841 oct.  23 11:13 variable_redictionsimple.sh
+blabla

@@ -1,0 +1,250 @@
+mysql -uroot -p
+pour se connecter
+
+create database d1;
+use d1;
+source lechemin/fichier.sql
+
+3)
+| numContrat | numClient | adresse    | numClient | nom      |
++------------+-----------+------------+-----------+----------+
+|          1 |         1 | Paris      |         1 | Jacques  |
+|          2 |         1 | Strasbourg |         1 | Jacques  |
+|          3 |         3 | Nice       |         3 | Caroline
+
+4)ok ya un soucis
+
+5)
+drop table Client
+Non car elle est liée à la table Conact par la clé étrangere
+6) non car reference svers une table qui existe Paris
+7)
+DELETE FROM Client
+    -> WHERE numClient=1
+il y a une foreign key qui empeche
+
+8)
+UPDATE Client set numCLient = 34 where nom='Jacques';
+pour francois ça marche , pas pour jacques;
+--------------------------------------------
+Trucs utiles du cours
+select machin as indice ==> on peut utiliser indce comme alias de lattribut
+
+
+///////////////////////////////
+TP2:
+////////////////////////////////
+2)
+SELECT f.Titre
+FROM Film f
+JOIN Distributeur d ON d.numDistributeur=f.numDistributeur
+WHERE d.Nom="Constance Film";
+
+
+
+3)
+SELECT c.nom
+FROM Client c
+JOIN Location l ON l.numCLient=c.numCLient
+JOIN Joue j ON j.numFilm=l.numFilm
+JOIN Artiste a ON a.numArtiste=j.numArtiste
+WHERE a.Nom="Michael Biehn";
+
+
+
+4)
+SELECT distinct m.adresse, f.Titre
+FROM Magasin m
+INNER JOIN Location l ON l.numMagasin=m.numMagasin
+INNER JOIN Film f ON f.numFilm=l.numFilm
+INNER JOIN Classification c ON c.numFilm=f.numFilm
+WHERE c.numCategorie="Drame";
+
+5)
+SELECT f.Titre
+FROM Film f
+inner JOIN Realisation r ON r.numFilm=f.numFilm
+inner JOIN Artiste a ON a.numArtiste=r.numArtiste
+inner JOIN Joue j ON j.numArtiste=a.numArtiste;
+
+6)
+SELECT f.Titre
+FROM Film f
+JOIN Joue j ON j.numFilm=f.numFilm
+JOIN Artiste a ON a.numArtiste=j.numArtiste
+JOIN Realisation r ON r.numArtiste=a.numArtiste;
+
+
+
+7)
+SELECT f.Titre
+FROM Film f
+JOIN Realisation r ON r.numFilm=f.numFilm
+JOIN Artiste a ON a.numArtiste=r.numArtiste
+JOIN Joue j ON j.numArtiste=a.numArtiste
+AND j.numFilm=f.numFilm;
+
+8)
+
+Solution code : lfldm4
+
+TP3
+
+1)
+SELECT COUNT(*)
+FROM
+(SELECT DISTINCT f.Titre
+FROM Film f
+JOIN Distributeur d ON d.numDistributeur=f.numDistributeur
+WHERE d.Nom="Constance Film"
+) mybdd;
+
+2)
+SELECT d.Nom, COUNT(f.numFilm)
+FROM Distributeur d
+LEFT JOIN Film f ON f.numDistributeur=d.numDistributeur
+GROUP BY d.Nom;
+
+4)
+SELECT COUNT(DISTINCT(c.numClient))
+FROM Client c;
+
+
+
+3)
+SELECT d.Nom, COUNT(f.numFilm)
+FROM Distributeur d
+JOIN Film f ON f.numDistributeur=d.numDistributeur
+GROUP BY d.Nom
+HAVING COUNT(f.numFilm)>=4;
+
+
+5)
+SELECT c.numClient,c.Nom, m.numMagasin, count(distinct l.numLocation)
+FROM Client c
+CROSS JOIN Magasin m
+LEFT JOIN Location l ON l.numCLient=c.numCLient and  m.numMagasin=l.numMagasin
+group by c.numClient,c.Nom,m.numMagasin;
+
+6)
+SELECT c.Nom, m.numMagasin, count(distinct l.numLocation)
+FROM Client c
+CROSS JOIN Magasin m
+LEFT JOIN Location l ON l.numCLient=c.numCLient and  m.numMagasin=l.numMagasin
+JOIN Joue j ON j.numFilm=l.numFilm
+JOIN Artiste a ON a.numArtiste=j.numArtiste
+WHERE a.NOM="Clint Eastwood"
+group by c.numClient,c.Nom,m.numMagasin
+HAVING count(distinct l.numLocation)>=2;
+
+
+SOLUTION Code cjike3
+TP4
+
+1)
+SELECT tab.Titre
+FROM
+(SELECT *
+FROM Film
+WHERE Annee =
+(SELECT MIN(Annee)
+FROM Film)
+)tab;
+
+
+SELECT tab.Titre
+FROM
+(SELECT *
+FROM Film
+WHERE Annee <=
+ALL(SELECT Annee
+FROM Film)
+)tab;
+
+
+2)
+
+SELECT Titre
+FROM Film
+WHERE Annee =
+(SELECT MIN(Annee)
+FROM Film);
+
+/* Chercher les titres de film qui ne sont pas distribués par  Constance Film  .*/
+3)
+SELECT f.Titre
+FROM Film f
+WHERE NOT EXISTS
+(SELECT numDistributeur
+FROM Distributeur
+WHERE Nom="Constance Film"
+AND f.numDistributeur=Distributeur.numDistributeur);
+
+
+/*Chercher les titres des films dont tous les acteurs possèdent la nationalité du pays de
+production du film. (Réponse attendue : Perfect World, Le père Noël est une ordure,
+Pulp Fiction, Dirty Harris, Pour les tests).*/
+4)
+SELECT f.Titre
+FROM Film f
+WHERE f.Pays = ALL
+(SELECT a.Nationalite
+FROM Artiste a
+JOIN Joue j ON j.numArtiste=a.numArtiste
+WHERE j.numFilm=f.numFilm);
+
+5)
+/*Chercher les titres des films dont au moins un acteur possède une nationalité différente
+du pays de production du film (Réponse attendue : The terminator, Good Bye, Lenin !). */
+
+SELECT Titre
+From Film
+WHERE Titre NOT IN(
+SELECT f.Titre
+FROM Film f
+WHERE f.Pays = ALL
+(SELECT a.Nationalite
+FROM Artiste a
+JOIN Joue j ON j.numArtiste=a.numArtiste
+WHERE j.numFilm=f.numFilm) );
+
+MDP :
+
+
+
+TP5
+
+1)
+SELECT COUNT(*)
+FROM Location
+WHERE DateDe <= "2019-11-29"
+AND DateA is NULL;
+
+2)
+SELECT l.numLocation, ADDTIME(l.DateDe, "14 0:0:0")
+FROM Location l
+WHERE l.DateDe <= "2019-11-29"
+AND l.DateA is NULL;
+
+3)
+CURDATE
+SELECT l.numLocation, ADDTIME(l.DateDe, "14 0:0:0")
+FROM Location l
+WHERE l.DateDe <= "2019-11-29"
+AND l.DateA is NULL;
+
+
+/* Fontions à connaitre */
+
+
+Add 10 days to a date and return the date:
+SELECT ADDDATE("2017-06-15", INTERVAL 10 DAY);
+
+
+Soustraire des dates
+SELECT DATEDIFF( date1, date2 );
+Les dates doivent être au format DATE (cf. AAAA-MM-JJ) ou DATETIME (cf. AAAA-MM-JJ HH:MM:SS). Pour que le résultat soit positif il faut que la date1 soit plus récente que la date2.
+
+CURDATE() renvoie la date actuelle
+
+checker cest quoi le SGBD

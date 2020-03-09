@@ -1,0 +1,5517 @@
++ creat_arbo
++ mkdir /tmp/test-300-6205-arbo
++ D1=l11
++ mkdir_full /tmp/test-300-6205-arbo/l11
++ mkdir /tmp/test-300-6205-arbo/l11
++ od -An -N1 -i /dev/urandom
++ NBFILE=         160
++ seq 160
++ od -An -N2 -d /dev/urandom
++ SIZE= 29372
++ head -c 29372 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 10939
++ head -c 10939 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 55951
++ head -c 55951 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 24792
++ head -c 24792 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 17100
++ head -c 17100 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 64325
++ head -c 64325 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 54510
++ head -c 54510 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 33521
++ head -c 33521 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  3825
++ head -c 3825 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 63582
++ head -c 63582 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  6600
++ head -c 6600 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  3881
++ head -c 3881 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 12132
++ head -c 12132 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 62381
++ head -c 62381 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 21189
++ head -c 21189 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 41505
++ head -c 41505 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 45639
++ head -c 45639 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 32372
++ head -c 32372 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 38041
++ head -c 38041 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 45955
++ head -c 45955 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 34921
++ head -c 34921 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 27211
++ head -c 27211 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 36404
++ head -c 36404 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 63815
++ head -c 63815 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 27724
++ head -c 27724 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 46813
++ head -c 46813 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  4685
++ head -c 4685 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 60134
++ head -c 60134 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 54912
++ head -c 54912 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 27773
++ head -c 27773 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  2602
++ head -c 2602 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 54480
++ head -c 54480 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 12749
++ head -c 12749 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 48181
++ head -c 48181 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 17040
++ head -c 17040 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 42074
++ head -c 42074 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  8429
++ head -c 8429 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 28576
++ head -c 28576 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 48589
++ head -c 48589 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  8085
++ head -c 8085 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 50208
++ head -c 50208 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 51426
++ head -c 51426 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 38491
++ head -c 38491 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 20863
++ head -c 20863 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 28158
++ head -c 28158 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 36407
++ head -c 36407 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 15510
++ head -c 15510 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 49846
++ head -c 49846 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 42620
++ head -c 42620 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  3005
++ head -c 3005 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 33218
++ head -c 33218 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 22582
++ head -c 22582 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 16980
++ head -c 16980 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 63635
++ head -c 63635 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 12391
++ head -c 12391 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 20526
++ head -c 20526 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 51127
++ head -c 51127 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  5176
++ head -c 5176 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=   986
++ head -c 986 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 58076
++ head -c 58076 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 42843
++ head -c 42843 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  7002
++ head -c 7002 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 19187
++ head -c 19187 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 48322
++ head -c 48322 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 22224
++ head -c 22224 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 53227
++ head -c 53227 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 16389
++ head -c 16389 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 53215
++ head -c 53215 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=   404
++ head -c 404 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  2641
++ head -c 2641 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  9192
++ head -c 9192 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 29817
++ head -c 29817 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 49776
++ head -c 49776 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=   389
++ head -c 389 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 56100
++ head -c 56100 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 32518
++ head -c 32518 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 63575
++ head -c 63575 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 16254
++ head -c 16254 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 18163
++ head -c 18163 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 27134
++ head -c 27134 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  7675
++ head -c 7675 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 51666
++ head -c 51666 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 40147
++ head -c 40147 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 43433
++ head -c 43433 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 58666
++ head -c 58666 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 34420
++ head -c 34420 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 62844
++ head -c 62844 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 44793
++ head -c 44793 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 61781
++ head -c 61781 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 62045
++ head -c 62045 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  6366
++ head -c 6366 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 26282
++ head -c 26282 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  2228
++ head -c 2228 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 24082
++ head -c 24082 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 32243
++ head -c 32243 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 43520
++ head -c 43520 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 16767
++ head -c 16767 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 17902
++ head -c 17902 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  2756
++ head -c 2756 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 36034
++ head -c 36034 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 17751
++ head -c 17751 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 62701
++ head -c 62701 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 26415
++ head -c 26415 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  2182
++ head -c 2182 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 42184
++ head -c 42184 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 24719
++ head -c 24719 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 15893
++ head -c 15893 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 46319
++ head -c 46319 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 22042
++ head -c 22042 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 21678
++ head -c 21678 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 18897
++ head -c 18897 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 43640
++ head -c 43640 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 33327
++ head -c 33327 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 59473
++ head -c 59473 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 45206
++ head -c 45206 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 61208
++ head -c 61208 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 59218
++ head -c 59218 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  5467
++ head -c 5467 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 14300
++ head -c 14300 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 20934
++ head -c 20934 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  3235
++ head -c 3235 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 54365
++ head -c 54365 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 47319
++ head -c 47319 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 37779
++ head -c 37779 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 54704
++ head -c 54704 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 47414
++ head -c 47414 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 52713
++ head -c 52713 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 11862
++ head -c 11862 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 34791
++ head -c 34791 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 18503
++ head -c 18503 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 25253
++ head -c 25253 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 50232
++ head -c 50232 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 54605
++ head -c 54605 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 56677
++ head -c 56677 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 51698
++ head -c 51698 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 47514
++ head -c 47514 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  9794
++ head -c 9794 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 57933
++ head -c 57933 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 20360
++ head -c 20360 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 11484
++ head -c 11484 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 36553
++ head -c 36553 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  2749
++ head -c 2749 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 27330
++ head -c 27330 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 65134
++ head -c 65134 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 31293
++ head -c 31293 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 47760
++ head -c 47760 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 37608
++ head -c 37608 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 31962
++ head -c 31962 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 42939
++ head -c 42939 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 41726
++ head -c 41726 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 28486
++ head -c 28486 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 45039
++ head -c 45039 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 63780
++ head -c 63780 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 59954
++ head -c 59954 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 45614
++ head -c 45614 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 39262
++ head -c 39262 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 14878
++ head -c 14878 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  1876
++ head -c 1876 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  7662
++ head -c 7662 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 30514
++ head -c 30514 /dev/urandom
++ D2=l21
++ mkdir_full /tmp/test-300-6205-arbo/l11/l21
++ mkdir /tmp/test-300-6205-arbo/l11/l21
++ od -An -N1 -i /dev/urandom
++ NBFILE=         133
++ seq 133
++ od -An -N2 -d /dev/urandom
++ SIZE= 62225
++ head -c 62225 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 24447
++ head -c 24447 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 39402
++ head -c 39402 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 60907
++ head -c 60907 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 29573
++ head -c 29573 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 49494
++ head -c 49494 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 20555
++ head -c 20555 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 10043
++ head -c 10043 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 64939
++ head -c 64939 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 63040
++ head -c 63040 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 49956
++ head -c 49956 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 18926
++ head -c 18926 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=   821
++ head -c 821 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 58295
++ head -c 58295 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 25489
++ head -c 25489 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 33364
++ head -c 33364 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 31359
++ head -c 31359 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 21090
++ head -c 21090 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 59063
++ head -c 59063 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  1832
++ head -c 1832 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  6607
++ head -c 6607 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 49792
++ head -c 49792 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  5765
++ head -c 5765 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 27419
++ head -c 27419 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  3672
++ head -c 3672 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 18863
++ head -c 18863 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  7722
++ head -c 7722 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 24321
++ head -c 24321 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 22549
++ head -c 22549 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 41157
++ head -c 41157 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  1966
++ head -c 1966 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 55109
++ head -c 55109 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 47865
++ head -c 47865 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 58110
++ head -c 58110 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  8027
++ head -c 8027 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  1754
++ head -c 1754 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 29055
++ head -c 29055 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 24978
++ head -c 24978 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 61223
++ head -c 61223 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 46701
++ head -c 46701 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 28080
++ head -c 28080 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 55588
++ head -c 55588 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 38619
++ head -c 38619 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 12258
++ head -c 12258 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 28121
++ head -c 28121 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 10884
++ head -c 10884 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 34528
++ head -c 34528 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 45662
++ head -c 45662 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 11608
++ head -c 11608 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 43054
++ head -c 43054 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 20635
++ head -c 20635 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 47997
++ head -c 47997 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 16211
++ head -c 16211 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 20632
++ head -c 20632 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 46541
++ head -c 46541 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  2960
++ head -c 2960 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 13340
++ head -c 13340 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 12676
++ head -c 12676 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 65433
++ head -c 65433 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 44857
++ head -c 44857 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 18201
++ head -c 18201 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 28575
++ head -c 28575 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 59464
++ head -c 59464 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 61736
++ head -c 61736 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 46676
++ head -c 46676 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  7069
++ head -c 7069 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  7918
++ head -c 7918 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 26958
++ head -c 26958 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 15745
++ head -c 15745 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  8349
++ head -c 8349 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  2389
++ head -c 2389 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 42081
++ head -c 42081 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 33359
++ head -c 33359 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 37631
++ head -c 37631 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  5420
++ head -c 5420 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  4847
++ head -c 4847 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 59074
++ head -c 59074 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 17801
++ head -c 17801 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 25759
++ head -c 25759 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 62016
++ head -c 62016 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 48749
++ head -c 48749 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 35568
++ head -c 35568 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 52968
++ head -c 52968 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 59188
++ head -c 59188 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 18707
++ head -c 18707 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 59384
++ head -c 59384 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 16219
++ head -c 16219 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 56835
++ head -c 56835 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 64061
++ head -c 64061 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 19144
++ head -c 19144 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 52361
++ head -c 52361 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=   461
++ head -c 461 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  6267
++ head -c 6267 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 43600
++ head -c 43600 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 33135
++ head -c 33135 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 22312
++ head -c 22312 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=   492
++ head -c 492 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  7282
++ head -c 7282 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  2312
++ head -c 2312 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 52913
++ head -c 52913 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 62631
++ head -c 62631 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 63018
++ head -c 63018 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 39378
++ head -c 39378 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 27652
++ head -c 27652 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 17226
++ head -c 17226 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 51503
++ head -c 51503 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 63694
++ head -c 63694 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 31586
++ head -c 31586 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 30238
++ head -c 30238 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 53618
++ head -c 53618 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 61938
++ head -c 61938 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 61283
++ head -c 61283 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  4371
++ head -c 4371 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 15027
++ head -c 15027 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 42090
++ head -c 42090 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 29922
++ head -c 29922 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 64697
++ head -c 64697 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 46096
++ head -c 46096 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 17307
++ head -c 17307 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 61377
++ head -c 61377 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 48138
++ head -c 48138 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  2981
++ head -c 2981 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=    75
++ head -c 75 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 19894
++ head -c 19894 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 45902
++ head -c 45902 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 44860
++ head -c 44860 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 31711
++ head -c 31711 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 19928
++ head -c 19928 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 48270
++ head -c 48270 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 62527
++ head -c 62527 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 48782
++ head -c 48782 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 55078
++ head -c 55078 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 57328
++ head -c 57328 /dev/urandom
++ D2=l22
++ mkdir_full /tmp/test-300-6205-arbo/l11/l22
++ mkdir /tmp/test-300-6205-arbo/l11/l22
++ od -An -N1 -i /dev/urandom
++ NBFILE=         205
++ seq 205
++ od -An -N2 -d /dev/urandom
++ SIZE= 23075
++ head -c 23075 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 52869
++ head -c 52869 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  9677
++ head -c 9677 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 18286
++ head -c 18286 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  6710
++ head -c 6710 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 10750
++ head -c 10750 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=   538
++ head -c 538 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 28255
++ head -c 28255 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 56456
++ head -c 56456 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  9754
++ head -c 9754 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 10296
++ head -c 10296 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 36232
++ head -c 36232 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 17837
++ head -c 17837 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 45096
++ head -c 45096 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 37366
++ head -c 37366 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 30837
++ head -c 30837 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 24181
++ head -c 24181 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 23937
++ head -c 23937 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 60789
++ head -c 60789 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 54124
++ head -c 54124 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  1082
++ head -c 1082 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 23559
++ head -c 23559 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 46653
++ head -c 46653 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 31212
++ head -c 31212 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 63321
++ head -c 63321 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 47522
++ head -c 47522 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 30145
++ head -c 30145 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  7123
++ head -c 7123 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 47403
++ head -c 47403 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 47739
++ head -c 47739 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 59802
++ head -c 59802 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 34736
++ head -c 34736 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 58644
++ head -c 58644 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 36779
++ head -c 36779 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 27411
++ head -c 27411 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 48568
++ head -c 48568 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 48348
++ head -c 48348 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 22858
++ head -c 22858 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 21875
++ head -c 21875 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 53303
++ head -c 53303 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 33463
++ head -c 33463 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  2265
++ head -c 2265 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  6400
++ head -c 6400 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 19916
++ head -c 19916 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 48941
++ head -c 48941 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  6269
++ head -c 6269 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 56549
++ head -c 56549 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=   645
++ head -c 645 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 25705
++ head -c 25705 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 16865
++ head -c 16865 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 48169
++ head -c 48169 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  7777
++ head -c 7777 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 32393
++ head -c 32393 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 34166
++ head -c 34166 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 11312
++ head -c 11312 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 27251
++ head -c 27251 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 62667
++ head -c 62667 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 45564
++ head -c 45564 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 48549
++ head -c 48549 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 35121
++ head -c 35121 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 48138
++ head -c 48138 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 47198
++ head -c 47198 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 42556
++ head -c 42556 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  8937
++ head -c 8937 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 27277
++ head -c 27277 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 64144
++ head -c 64144 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 16914
++ head -c 16914 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 35862
++ head -c 35862 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  2821
++ head -c 2821 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  7086
++ head -c 7086 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 43519
++ head -c 43519 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 62849
++ head -c 62849 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 49367
++ head -c 49367 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 30845
++ head -c 30845 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 42337
++ head -c 42337 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 20422
++ head -c 20422 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 34176
++ head -c 34176 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 19404
++ head -c 19404 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 62697
++ head -c 62697 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 53285
++ head -c 53285 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 31119
++ head -c 31119 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  7183
++ head -c 7183 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 46513
++ head -c 46513 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  4777
++ head -c 4777 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 20410
++ head -c 20410 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 21613
++ head -c 21613 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 42021
++ head -c 42021 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  3357
++ head -c 3357 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 16510
++ head -c 16510 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  3707
++ head -c 3707 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=   642
++ head -c 642 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 17056
++ head -c 17056 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 54570
++ head -c 54570 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 32288
++ head -c 32288 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 41226
++ head -c 41226 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 41853
++ head -c 41853 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  7430
++ head -c 7430 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 11593
++ head -c 11593 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 30773
++ head -c 30773 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 35011
++ head -c 35011 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  9990
++ head -c 9990 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 24876
++ head -c 24876 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  6900
++ head -c 6900 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 13637
++ head -c 13637 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 36235
++ head -c 36235 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 42228
++ head -c 42228 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 52673
++ head -c 52673 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 60557
++ head -c 60557 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 63506
++ head -c 63506 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 62553
++ head -c 62553 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 26474
++ head -c 26474 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 32901
++ head -c 32901 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 62411
++ head -c 62411 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 28441
++ head -c 28441 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  2068
++ head -c 2068 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 52188
++ head -c 52188 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 59813
++ head -c 59813 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 42003
++ head -c 42003 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 28645
++ head -c 28645 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 50195
++ head -c 50195 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 19434
++ head -c 19434 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 20987
++ head -c 20987 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  3914
++ head -c 3914 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 11779
++ head -c 11779 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 44441
++ head -c 44441 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 13329
++ head -c 13329 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 42177
++ head -c 42177 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  5685
++ head -c 5685 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 39655
++ head -c 39655 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 40214
++ head -c 40214 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 44181
++ head -c 44181 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 65429
++ head -c 65429 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  3164
++ head -c 3164 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  6502
++ head -c 6502 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 40447
++ head -c 40447 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  2781
++ head -c 2781 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  1837
++ head -c 1837 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 40953
++ head -c 40953 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 63625
++ head -c 63625 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 64453
++ head -c 64453 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 31320
++ head -c 31320 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 47331
++ head -c 47331 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  3419
++ head -c 3419 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 61781
++ head -c 61781 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 15788
++ head -c 15788 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 61262
++ head -c 61262 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  5689
++ head -c 5689 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 16868
++ head -c 16868 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 31103
++ head -c 31103 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 25127
++ head -c 25127 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 24990
++ head -c 24990 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 53027
++ head -c 53027 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 23872
++ head -c 23872 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 27594
++ head -c 27594 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  8368
++ head -c 8368 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 61604
++ head -c 61604 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 27962
++ head -c 27962 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 37119
++ head -c 37119 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 54616
++ head -c 54616 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 47799
++ head -c 47799 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 40955
++ head -c 40955 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 19534
++ head -c 19534 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 33956
++ head -c 33956 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 32142
++ head -c 32142 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 15655
++ head -c 15655 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 37715
++ head -c 37715 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 47852
++ head -c 47852 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 64179
++ head -c 64179 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 49967
++ head -c 49967 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 24900
++ head -c 24900 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 58973
++ head -c 58973 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 15246
++ head -c 15246 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  6968
++ head -c 6968 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 39703
++ head -c 39703 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 10430
++ head -c 10430 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 32418
++ head -c 32418 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 56417
++ head -c 56417 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 26248
++ head -c 26248 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 62023
++ head -c 62023 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 63363
++ head -c 63363 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 54514
++ head -c 54514 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 50494
++ head -c 50494 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  9395
++ head -c 9395 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 63609
++ head -c 63609 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 59047
++ head -c 59047 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 11034
++ head -c 11034 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 57131
++ head -c 57131 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  6124
++ head -c 6124 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 53397
++ head -c 53397 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 29793
++ head -c 29793 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 49108
++ head -c 49108 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  7830
++ head -c 7830 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  3554
++ head -c 3554 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 24655
++ head -c 24655 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 17503
++ head -c 17503 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 62222
++ head -c 62222 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 54177
++ head -c 54177 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  6651
++ head -c 6651 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 58548
++ head -c 58548 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 49899
++ head -c 49899 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 21811
++ head -c 21811 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 36998
++ head -c 36998 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 43046
++ head -c 43046 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 34132
++ head -c 34132 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 33883
++ head -c 33883 /dev/urandom
++ D2=l23
++ mkdir_full /tmp/test-300-6205-arbo/l11/l23
++ mkdir /tmp/test-300-6205-arbo/l11/l23
++ od -An -N1 -i /dev/urandom
++ NBFILE=         246
++ seq 246
++ od -An -N2 -d /dev/urandom
++ SIZE=   181
++ head -c 181 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 12555
++ head -c 12555 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 39837
++ head -c 39837 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 20187
++ head -c 20187 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 35793
++ head -c 35793 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 25697
++ head -c 25697 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 56439
++ head -c 56439 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 35636
++ head -c 35636 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 11431
++ head -c 11431 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 40022
++ head -c 40022 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 34967
++ head -c 34967 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 56376
++ head -c 56376 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 38540
++ head -c 38540 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 54729
++ head -c 54729 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 57971
++ head -c 57971 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 24818
++ head -c 24818 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 29563
++ head -c 29563 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  7113
++ head -c 7113 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 51939
++ head -c 51939 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  5427
++ head -c 5427 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 56392
++ head -c 56392 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 33991
++ head -c 33991 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 63883
++ head -c 63883 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 27206
++ head -c 27206 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 21663
++ head -c 21663 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 17146
++ head -c 17146 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 15886
++ head -c 15886 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 18625
++ head -c 18625 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 61606
++ head -c 61606 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 27066
++ head -c 27066 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 27238
++ head -c 27238 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 39458
++ head -c 39458 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 12059
++ head -c 12059 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  4144
++ head -c 4144 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 41451
++ head -c 41451 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 20630
++ head -c 20630 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 52780
++ head -c 52780 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 64039
++ head -c 64039 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 22604
++ head -c 22604 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 32102
++ head -c 32102 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 47515
++ head -c 47515 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 36331
++ head -c 36331 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 29954
++ head -c 29954 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 64847
++ head -c 64847 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 29364
++ head -c 29364 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 21644
++ head -c 21644 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 60271
++ head -c 60271 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 16475
++ head -c 16475 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 41109
++ head -c 41109 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  2459
++ head -c 2459 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 56799
++ head -c 56799 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 18770
++ head -c 18770 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 62693
++ head -c 62693 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 41225
++ head -c 41225 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 28600
++ head -c 28600 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 59609
++ head -c 59609 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 51872
++ head -c 51872 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 18282
++ head -c 18282 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 61284
++ head -c 61284 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 62199
++ head -c 62199 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 32035
++ head -c 32035 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 45142
++ head -c 45142 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 38142
++ head -c 38142 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 42536
++ head -c 42536 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 50777
++ head -c 50777 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 56230
++ head -c 56230 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 29814
++ head -c 29814 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 31840
++ head -c 31840 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  9995
++ head -c 9995 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  9351
++ head -c 9351 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 32985
++ head -c 32985 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 30480
++ head -c 30480 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 36383
++ head -c 36383 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 40564
++ head -c 40564 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 24334
++ head -c 24334 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 56147
++ head -c 56147 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 45524
++ head -c 45524 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 39697
++ head -c 39697 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 52137
++ head -c 52137 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 48240
++ head -c 48240 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 33775
++ head -c 33775 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  2025
++ head -c 2025 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 45093
++ head -c 45093 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  2331
++ head -c 2331 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  5861
++ head -c 5861 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 23788
++ head -c 23788 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 14142
++ head -c 14142 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 42542
++ head -c 42542 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 41423
++ head -c 41423 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 14308
++ head -c 14308 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 62967
++ head -c 62967 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 11143
++ head -c 11143 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  3895
++ head -c 3895 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 35222
++ head -c 35222 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 62103
++ head -c 62103 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 29499
++ head -c 29499 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 44324
++ head -c 44324 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 43423
++ head -c 43423 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 43729
++ head -c 43729 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 26306
++ head -c 26306 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 44712
++ head -c 44712 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 13157
++ head -c 13157 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 56178
++ head -c 56178 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 46660
++ head -c 46660 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 26407
++ head -c 26407 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 35552
++ head -c 35552 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 50537
++ head -c 50537 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 42235
++ head -c 42235 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 45209
++ head -c 45209 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 51515
++ head -c 51515 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 59655
++ head -c 59655 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  2882
++ head -c 2882 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 20658
++ head -c 20658 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 64963
++ head -c 64963 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 63487
++ head -c 63487 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 57215
++ head -c 57215 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 20897
++ head -c 20897 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 56238
++ head -c 56238 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 23521
++ head -c 23521 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 26927
++ head -c 26927 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 54548
++ head -c 54548 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 31828
++ head -c 31828 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 62714
++ head -c 62714 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 52059
++ head -c 52059 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=   283
++ head -c 283 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 62155
++ head -c 62155 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 56677
++ head -c 56677 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 62834
++ head -c 62834 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 37228
++ head -c 37228 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 63923
++ head -c 63923 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 33182
++ head -c 33182 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  4255
++ head -c 4255 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 60952
++ head -c 60952 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 32382
++ head -c 32382 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 45568
++ head -c 45568 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 59435
++ head -c 59435 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 28971
++ head -c 28971 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  6456
++ head -c 6456 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 21214
++ head -c 21214 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 37922
++ head -c 37922 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  8890
++ head -c 8890 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 57067
++ head -c 57067 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 32758
++ head -c 32758 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  1930
++ head -c 1930 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 16422
++ head -c 16422 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 23045
++ head -c 23045 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 17767
++ head -c 17767 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 12370
++ head -c 12370 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 29347
++ head -c 29347 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 46131
++ head -c 46131 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 10926
++ head -c 10926 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 40369
++ head -c 40369 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 24713
++ head -c 24713 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 38785
++ head -c 38785 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  4830
++ head -c 4830 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 27622
++ head -c 27622 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 31396
++ head -c 31396 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 46388
++ head -c 46388 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 60963
++ head -c 60963 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 10500
++ head -c 10500 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 59558
++ head -c 59558 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=   795
++ head -c 795 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  3509
++ head -c 3509 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 62284
++ head -c 62284 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  9151
++ head -c 9151 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 64680
++ head -c 64680 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 46441
++ head -c 46441 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 37613
++ head -c 37613 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 54675
++ head -c 54675 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 46757
++ head -c 46757 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 62652
++ head -c 62652 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 55926
++ head -c 55926 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 16236
++ head -c 16236 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 10516
++ head -c 10516 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 43665
++ head -c 43665 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 29306
++ head -c 29306 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 37453
++ head -c 37453 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 29311
++ head -c 29311 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 53866
++ head -c 53866 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 45685
++ head -c 45685 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 23866
++ head -c 23866 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 59688
++ head -c 59688 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 32082
++ head -c 32082 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  1495
++ head -c 1495 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 35979
++ head -c 35979 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 60379
++ head -c 60379 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 65075
++ head -c 65075 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 41097
++ head -c 41097 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 53103
++ head -c 53103 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 15065
++ head -c 15065 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  3243
++ head -c 3243 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  5601
++ head -c 5601 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 41019
++ head -c 41019 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 59479
++ head -c 59479 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 17025
++ head -c 17025 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 13517
++ head -c 13517 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 16097
++ head -c 16097 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 60573
++ head -c 60573 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 34049
++ head -c 34049 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  7357
++ head -c 7357 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 22352
++ head -c 22352 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 23640
++ head -c 23640 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  4898
++ head -c 4898 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  9192
++ head -c 9192 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 16248
++ head -c 16248 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 33282
++ head -c 33282 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 48467
++ head -c 48467 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 11308
++ head -c 11308 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  8092
++ head -c 8092 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  4236
++ head -c 4236 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  3002
++ head -c 3002 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 18619
++ head -c 18619 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  4605
++ head -c 4605 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  2824
++ head -c 2824 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 27315
++ head -c 27315 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 47401
++ head -c 47401 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 39082
++ head -c 39082 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 62269
++ head -c 62269 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 35016
++ head -c 35016 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 64886
++ head -c 64886 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 40812
++ head -c 40812 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  4956
++ head -c 4956 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 33818
++ head -c 33818 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 13528
++ head -c 13528 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 62778
++ head -c 62778 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 55576
++ head -c 55576 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 38412
++ head -c 38412 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 12237
++ head -c 12237 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 64653
++ head -c 64653 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 63270
++ head -c 63270 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  8441
++ head -c 8441 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 43555
++ head -c 43555 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 58083
++ head -c 58083 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 16819
++ head -c 16819 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 54087
++ head -c 54087 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 65063
++ head -c 65063 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 33318
++ head -c 33318 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 51587
++ head -c 51587 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 40143
++ head -c 40143 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 55091
++ head -c 55091 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 33243
++ head -c 33243 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  1146
++ head -c 1146 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 58817
++ head -c 58817 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  2323
++ head -c 2323 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  2976
++ head -c 2976 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 20571
++ head -c 20571 /dev/urandom
++ D2=l24
++ mkdir_full /tmp/test-300-6205-arbo/l11/l24
++ mkdir /tmp/test-300-6205-arbo/l11/l24
++ od -An -N1 -i /dev/urandom
++ NBFILE=         166
++ seq 166
++ od -An -N2 -d /dev/urandom
++ SIZE=  5996
++ head -c 5996 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 10656
++ head -c 10656 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 58240
++ head -c 58240 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 30971
++ head -c 30971 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 13707
++ head -c 13707 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 28050
++ head -c 28050 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 54023
++ head -c 54023 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 55346
++ head -c 55346 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  8595
++ head -c 8595 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 12877
++ head -c 12877 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 52585
++ head -c 52585 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 46911
++ head -c 46911 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 32042
++ head -c 32042 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 50467
++ head -c 50467 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 56731
++ head -c 56731 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 35945
++ head -c 35945 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 48840
++ head -c 48840 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 16491
++ head -c 16491 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  5968
++ head -c 5968 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  6292
++ head -c 6292 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 32972
++ head -c 32972 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 51339
++ head -c 51339 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 16464
++ head -c 16464 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 12560
++ head -c 12560 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 55799
++ head -c 55799 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=   992
++ head -c 992 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  2743
++ head -c 2743 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  9858
++ head -c 9858 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 17937
++ head -c 17937 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 52183
++ head -c 52183 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 28630
++ head -c 28630 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 58462
++ head -c 58462 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 15364
++ head -c 15364 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 56432
++ head -c 56432 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 47944
++ head -c 47944 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 49333
++ head -c 49333 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 35422
++ head -c 35422 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 58821
++ head -c 58821 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 10671
++ head -c 10671 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 61808
++ head -c 61808 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  2657
++ head -c 2657 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 54479
++ head -c 54479 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 57113
++ head -c 57113 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 14840
++ head -c 14840 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 13260
++ head -c 13260 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 57225
++ head -c 57225 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 15073
++ head -c 15073 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 52617
++ head -c 52617 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 32360
++ head -c 32360 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  3518
++ head -c 3518 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 46279
++ head -c 46279 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 48724
++ head -c 48724 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 27347
++ head -c 27347 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  9276
++ head -c 9276 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 42626
++ head -c 42626 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 34440
++ head -c 34440 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 45083
++ head -c 45083 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 53848
++ head -c 53848 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  8139
++ head -c 8139 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 63196
++ head -c 63196 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 61525
++ head -c 61525 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 25442
++ head -c 25442 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 61026
++ head -c 61026 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 17826
++ head -c 17826 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  2734
++ head -c 2734 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 25169
++ head -c 25169 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 57642
++ head -c 57642 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 30307
++ head -c 30307 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 21453
++ head -c 21453 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 58527
++ head -c 58527 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  8934
++ head -c 8934 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  8289
++ head -c 8289 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 51181
++ head -c 51181 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  2135
++ head -c 2135 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 31993
++ head -c 31993 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 34019
++ head -c 34019 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 62986
++ head -c 62986 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 11668
++ head -c 11668 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 39916
++ head -c 39916 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 39314
++ head -c 39314 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 25094
++ head -c 25094 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  7779
++ head -c 7779 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 33451
++ head -c 33451 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 28839
++ head -c 28839 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 45793
++ head -c 45793 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 58095
++ head -c 58095 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 58381
++ head -c 58381 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 48376
++ head -c 48376 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  7296
++ head -c 7296 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 13608
++ head -c 13608 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 28992
++ head -c 28992 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 55038
++ head -c 55038 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 28684
++ head -c 28684 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 36511
++ head -c 36511 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 59631
++ head -c 59631 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 26921
++ head -c 26921 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 35897
++ head -c 35897 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 20381
++ head -c 20381 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 38210
++ head -c 38210 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 58329
++ head -c 58329 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 35937
++ head -c 35937 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 63818
++ head -c 63818 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 35260
++ head -c 35260 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 36784
++ head -c 36784 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  9344
++ head -c 9344 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 52020
++ head -c 52020 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 12721
++ head -c 12721 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 25358
++ head -c 25358 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 40146
++ head -c 40146 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 36505
++ head -c 36505 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 56039
++ head -c 56039 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 29430
++ head -c 29430 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 30341
++ head -c 30341 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 55624
++ head -c 55624 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 10437
++ head -c 10437 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 13272
++ head -c 13272 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 35792
++ head -c 35792 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 32927
++ head -c 32927 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=   185
++ head -c 185 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 17503
++ head -c 17503 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 30145
++ head -c 30145 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 29077
++ head -c 29077 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  7528
++ head -c 7528 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 40916
++ head -c 40916 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 12514
++ head -c 12514 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 65418
++ head -c 65418 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 58843
++ head -c 58843 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 49249
++ head -c 49249 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 63814
++ head -c 63814 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  9038
++ head -c 9038 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 27134
++ head -c 27134 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 24674
++ head -c 24674 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 46771
++ head -c 46771 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 48738
++ head -c 48738 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 62194
++ head -c 62194 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  5221
++ head -c 5221 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 16990
++ head -c 16990 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 51118
++ head -c 51118 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  5203
++ head -c 5203 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 23471
++ head -c 23471 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 22421
++ head -c 22421 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  9532
++ head -c 9532 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 40168
++ head -c 40168 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 22216
++ head -c 22216 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 64661
++ head -c 64661 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 50818
++ head -c 50818 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 56675
++ head -c 56675 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 57369
++ head -c 57369 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 61080
++ head -c 61080 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 12940
++ head -c 12940 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 30768
++ head -c 30768 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 15223
++ head -c 15223 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 44336
++ head -c 44336 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 37534
++ head -c 37534 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 49232
++ head -c 49232 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 18054
++ head -c 18054 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 29597
++ head -c 29597 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 40708
++ head -c 40708 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 50717
++ head -c 50717 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 29017
++ head -c 29017 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 17151
++ head -c 17151 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 14096
++ head -c 14096 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 44557
++ head -c 44557 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 30510
++ head -c 30510 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  1484
++ head -c 1484 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 25805
++ head -c 25805 /dev/urandom
++ D1=l12
++ mkdir_full /tmp/test-300-6205-arbo/l12
++ mkdir /tmp/test-300-6205-arbo/l12
++ od -An -N1 -i /dev/urandom
++ NBFILE=          94
++ seq 94
++ od -An -N2 -d /dev/urandom
++ SIZE=  2408
++ head -c 2408 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 41656
++ head -c 41656 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 13495
++ head -c 13495 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 29776
++ head -c 29776 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 49534
++ head -c 49534 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 59581
++ head -c 59581 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 36751
++ head -c 36751 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 51596
++ head -c 51596 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 19284
++ head -c 19284 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 45301
++ head -c 45301 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 54934
++ head -c 54934 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 42655
++ head -c 42655 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 62420
++ head -c 62420 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 39588
++ head -c 39588 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 20137
++ head -c 20137 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 14935
++ head -c 14935 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 39404
++ head -c 39404 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 38926
++ head -c 38926 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 47104
++ head -c 47104 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 35858
++ head -c 35858 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 57560
++ head -c 57560 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 65164
++ head -c 65164 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 51593
++ head -c 51593 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 54700
++ head -c 54700 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  6951
++ head -c 6951 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  6441
++ head -c 6441 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 52332
++ head -c 52332 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 10921
++ head -c 10921 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 36915
++ head -c 36915 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 59337
++ head -c 59337 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 42085
++ head -c 42085 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  1079
++ head -c 1079 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 13932
++ head -c 13932 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 19036
++ head -c 19036 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 42078
++ head -c 42078 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 33795
++ head -c 33795 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 41544
++ head -c 41544 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 57106
++ head -c 57106 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 31117
++ head -c 31117 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 51669
++ head -c 51669 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 19634
++ head -c 19634 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 31873
++ head -c 31873 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 21361
++ head -c 21361 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 13122
++ head -c 13122 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 10216
++ head -c 10216 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  8189
++ head -c 8189 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 44759
++ head -c 44759 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 25096
++ head -c 25096 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 19404
++ head -c 19404 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 40917
++ head -c 40917 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  7090
++ head -c 7090 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 41284
++ head -c 41284 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  5599
++ head -c 5599 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 64879
++ head -c 64879 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 45548
++ head -c 45548 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 47090
++ head -c 47090 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 65026
++ head -c 65026 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 16590
++ head -c 16590 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 29558
++ head -c 29558 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  9454
++ head -c 9454 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 55101
++ head -c 55101 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 60844
++ head -c 60844 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  9429
++ head -c 9429 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 20067
++ head -c 20067 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 12621
++ head -c 12621 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 22286
++ head -c 22286 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  1694
++ head -c 1694 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 35472
++ head -c 35472 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=   493
++ head -c 493 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 18578
++ head -c 18578 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 24695
++ head -c 24695 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 27199
++ head -c 27199 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 59079
++ head -c 59079 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  3817
++ head -c 3817 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=   567
++ head -c 567 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 41706
++ head -c 41706 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 20068
++ head -c 20068 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 55520
++ head -c 55520 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 28121
++ head -c 28121 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=   735
++ head -c 735 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 36871
++ head -c 36871 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  2841
++ head -c 2841 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 46555
++ head -c 46555 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 16262
++ head -c 16262 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 48057
++ head -c 48057 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 52610
++ head -c 52610 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 55745
++ head -c 55745 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  7231
++ head -c 7231 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  5923
++ head -c 5923 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  7174
++ head -c 7174 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 48612
++ head -c 48612 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 39057
++ head -c 39057 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 17735
++ head -c 17735 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  4608
++ head -c 4608 /dev/urandom
++ D2=l21
++ mkdir_full /tmp/test-300-6205-arbo/l12/l21
++ mkdir /tmp/test-300-6205-arbo/l12/l21
++ od -An -N1 -i /dev/urandom
++ NBFILE=         190
++ seq 190
++ od -An -N2 -d /dev/urandom
++ SIZE= 41578
++ head -c 41578 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 23603
++ head -c 23603 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 10763
++ head -c 10763 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 26257
++ head -c 26257 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 49244
++ head -c 49244 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 56459
++ head -c 56459 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 23876
++ head -c 23876 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 17297
++ head -c 17297 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 37329
++ head -c 37329 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 27495
++ head -c 27495 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 45254
++ head -c 45254 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  7747
++ head -c 7747 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 45311
++ head -c 45311 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 60830
++ head -c 60830 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  1030
++ head -c 1030 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 39210
++ head -c 39210 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 40538
++ head -c 40538 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 62389
++ head -c 62389 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 65006
++ head -c 65006 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  9892
++ head -c 9892 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 16821
++ head -c 16821 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  9092
++ head -c 9092 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 42384
++ head -c 42384 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 31221
++ head -c 31221 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 27982
++ head -c 27982 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 28538
++ head -c 28538 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 39789
++ head -c 39789 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 51530
++ head -c 51530 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 21501
++ head -c 21501 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 43140
++ head -c 43140 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 29223
++ head -c 29223 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 10599
++ head -c 10599 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 12840
++ head -c 12840 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 43976
++ head -c 43976 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  3898
++ head -c 3898 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 48539
++ head -c 48539 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 55775
++ head -c 55775 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 53303
++ head -c 53303 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 65533
++ head -c 65533 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 45773
++ head -c 45773 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 31111
++ head -c 31111 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 47149
++ head -c 47149 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 30869
++ head -c 30869 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 38482
++ head -c 38482 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 38700
++ head -c 38700 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 19211
++ head -c 19211 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 52335
++ head -c 52335 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 38654
++ head -c 38654 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 57780
++ head -c 57780 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 29078
++ head -c 29078 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 63454
++ head -c 63454 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 29199
++ head -c 29199 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  7115
++ head -c 7115 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 38660
++ head -c 38660 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 10661
++ head -c 10661 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 13048
++ head -c 13048 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 11635
++ head -c 11635 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 17182
++ head -c 17182 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  1592
++ head -c 1592 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 40893
++ head -c 40893 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 19071
++ head -c 19071 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  3965
++ head -c 3965 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 12861
++ head -c 12861 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 48871
++ head -c 48871 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 63045
++ head -c 63045 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  9326
++ head -c 9326 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 52994
++ head -c 52994 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 43292
++ head -c 43292 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 47900
++ head -c 47900 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 64698
++ head -c 64698 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 43116
++ head -c 43116 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 51689
++ head -c 51689 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 27540
++ head -c 27540 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 39954
++ head -c 39954 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 18996
++ head -c 18996 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 16337
++ head -c 16337 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  9798
++ head -c 9798 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 62186
++ head -c 62186 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 37324
++ head -c 37324 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  4254
++ head -c 4254 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  3483
++ head -c 3483 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 18440
++ head -c 18440 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 10044
++ head -c 10044 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 23872
++ head -c 23872 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 16279
++ head -c 16279 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 47264
++ head -c 47264 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 64118
++ head -c 64118 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 63593
++ head -c 63593 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 15019
++ head -c 15019 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 20450
++ head -c 20450 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 43733
++ head -c 43733 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 14515
++ head -c 14515 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  9717
++ head -c 9717 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  5200
++ head -c 5200 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  8740
++ head -c 8740 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 39648
++ head -c 39648 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  3654
++ head -c 3654 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 53630
++ head -c 53630 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 43689
++ head -c 43689 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 56302
++ head -c 56302 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 26387
++ head -c 26387 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 27750
++ head -c 27750 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  6962
++ head -c 6962 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 23224
++ head -c 23224 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 48417
++ head -c 48417 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 43394
++ head -c 43394 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 18326
++ head -c 18326 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 34879
++ head -c 34879 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 24438
++ head -c 24438 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 64372
++ head -c 64372 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  3776
++ head -c 3776 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 37455
++ head -c 37455 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 26360
++ head -c 26360 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 38710
++ head -c 38710 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 62191
++ head -c 62191 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 26141
++ head -c 26141 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 50954
++ head -c 50954 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 19747
++ head -c 19747 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 18395
++ head -c 18395 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 10407
++ head -c 10407 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 31809
++ head -c 31809 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  4743
++ head -c 4743 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 35756
++ head -c 35756 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 31662
++ head -c 31662 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 22236
++ head -c 22236 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 29801
++ head -c 29801 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 19068
++ head -c 19068 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 16185
++ head -c 16185 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  4372
++ head -c 4372 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 62789
++ head -c 62789 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 10482
++ head -c 10482 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 44739
++ head -c 44739 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 34599
++ head -c 34599 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 13128
++ head -c 13128 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 29173
++ head -c 29173 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 41155
++ head -c 41155 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  5284
++ head -c 5284 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 23534
++ head -c 23534 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 59044
++ head -c 59044 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  5529
++ head -c 5529 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 22366
++ head -c 22366 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 51152
++ head -c 51152 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 16876
++ head -c 16876 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 48563
++ head -c 48563 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  9061
++ head -c 9061 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 37160
++ head -c 37160 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 46836
++ head -c 46836 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 17393
++ head -c 17393 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 64254
++ head -c 64254 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=   291
++ head -c 291 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  2983
++ head -c 2983 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 63149
++ head -c 63149 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  7739
++ head -c 7739 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 24678
++ head -c 24678 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 53678
++ head -c 53678 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 45182
++ head -c 45182 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 61797
++ head -c 61797 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 31809
++ head -c 31809 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 14259
++ head -c 14259 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 13539
++ head -c 13539 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 12261
++ head -c 12261 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 16118
++ head -c 16118 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 34525
++ head -c 34525 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 22521
++ head -c 22521 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 25657
++ head -c 25657 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 53796
++ head -c 53796 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 11845
++ head -c 11845 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  9212
++ head -c 9212 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 20551
++ head -c 20551 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 54960
++ head -c 54960 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  5457
++ head -c 5457 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 64902
++ head -c 64902 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 12576
++ head -c 12576 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 53182
++ head -c 53182 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  6189
++ head -c 6189 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 12473
++ head -c 12473 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 51638
++ head -c 51638 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 35401
++ head -c 35401 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  6874
++ head -c 6874 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 65533
++ head -c 65533 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 62644
++ head -c 62644 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 17478
++ head -c 17478 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 63865
++ head -c 63865 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 64433
++ head -c 64433 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 61964
++ head -c 61964 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 52631
++ head -c 52631 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 61436
++ head -c 61436 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 21845
++ head -c 21845 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 57894
++ head -c 57894 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 65066
++ head -c 65066 /dev/urandom
++ D2=l22
++ mkdir_full /tmp/test-300-6205-arbo/l12/l22
++ mkdir /tmp/test-300-6205-arbo/l12/l22
++ od -An -N1 -i /dev/urandom
++ NBFILE=          91
++ seq 91
++ od -An -N2 -d /dev/urandom
++ SIZE=  6546
++ head -c 6546 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 42104
++ head -c 42104 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 44997
++ head -c 44997 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  3333
++ head -c 3333 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 62572
++ head -c 62572 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  2879
++ head -c 2879 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 35761
++ head -c 35761 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 20419
++ head -c 20419 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  8392
++ head -c 8392 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 21819
++ head -c 21819 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 43567
++ head -c 43567 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 14316
++ head -c 14316 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 31958
++ head -c 31958 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 52456
++ head -c 52456 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 23697
++ head -c 23697 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 24061
++ head -c 24061 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 14306
++ head -c 14306 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 16847
++ head -c 16847 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  3818
++ head -c 3818 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 37972
++ head -c 37972 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 42308
++ head -c 42308 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 26098
++ head -c 26098 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  6113
++ head -c 6113 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 59211
++ head -c 59211 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 39257
++ head -c 39257 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 12821
++ head -c 12821 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 37915
++ head -c 37915 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 45771
++ head -c 45771 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  4396
++ head -c 4396 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 10538
++ head -c 10538 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 27031
++ head -c 27031 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  4014
++ head -c 4014 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 56546
++ head -c 56546 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 54076
++ head -c 54076 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 42426
++ head -c 42426 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 34766
++ head -c 34766 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 11077
++ head -c 11077 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  9390
++ head -c 9390 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 64246
++ head -c 64246 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 39274
++ head -c 39274 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 21791
++ head -c 21791 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 40472
++ head -c 40472 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 16974
++ head -c 16974 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 31470
++ head -c 31470 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 14411
++ head -c 14411 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  6398
++ head -c 6398 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  2200
++ head -c 2200 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 38283
++ head -c 38283 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 49650
++ head -c 49650 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=   127
++ head -c 127 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 38856
++ head -c 38856 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 23050
++ head -c 23050 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  8718
++ head -c 8718 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  3333
++ head -c 3333 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 63134
++ head -c 63134 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 33750
++ head -c 33750 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 38678
++ head -c 38678 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  2203
++ head -c 2203 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 48204
++ head -c 48204 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 53922
++ head -c 53922 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 18309
++ head -c 18309 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 47473
++ head -c 47473 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 39887
++ head -c 39887 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  5197
++ head -c 5197 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 22274
++ head -c 22274 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 43860
++ head -c 43860 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 11569
++ head -c 11569 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 24255
++ head -c 24255 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 40848
++ head -c 40848 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 29179
++ head -c 29179 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 46663
++ head -c 46663 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 53525
++ head -c 53525 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 25179
++ head -c 25179 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 31254
++ head -c 31254 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 47962
++ head -c 47962 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 13779
++ head -c 13779 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 14468
++ head -c 14468 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 19017
++ head -c 19017 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 51120
++ head -c 51120 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 15863
++ head -c 15863 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 28113
++ head -c 28113 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 31832
++ head -c 31832 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 54248
++ head -c 54248 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  2435
++ head -c 2435 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 17825
++ head -c 17825 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 10549
++ head -c 10549 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 16582
++ head -c 16582 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 60987
++ head -c 60987 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 58348
++ head -c 58348 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 24329
++ head -c 24329 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  2488
++ head -c 2488 /dev/urandom
++ D2=l23
++ mkdir_full /tmp/test-300-6205-arbo/l12/l23
++ mkdir /tmp/test-300-6205-arbo/l12/l23
++ od -An -N1 -i /dev/urandom
++ NBFILE=          39
++ seq 39
++ od -An -N2 -d /dev/urandom
++ SIZE= 42737
++ head -c 42737 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 34358
++ head -c 34358 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=   766
++ head -c 766 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  9143
++ head -c 9143 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 49631
++ head -c 49631 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  4131
++ head -c 4131 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 47556
++ head -c 47556 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  8465
++ head -c 8465 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 48521
++ head -c 48521 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 15089
++ head -c 15089 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 32746
++ head -c 32746 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 64793
++ head -c 64793 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  7167
++ head -c 7167 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 61896
++ head -c 61896 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  5417
++ head -c 5417 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 64455
++ head -c 64455 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  1551
++ head -c 1551 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 25528
++ head -c 25528 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 47522
++ head -c 47522 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 16669
++ head -c 16669 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 11825
++ head -c 11825 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 49585
++ head -c 49585 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 61300
++ head -c 61300 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 46236
++ head -c 46236 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 52051
++ head -c 52051 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 25705
++ head -c 25705 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 10789
++ head -c 10789 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 62173
++ head -c 62173 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 18858
++ head -c 18858 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 40903
++ head -c 40903 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  5823
++ head -c 5823 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 21523
++ head -c 21523 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 58269
++ head -c 58269 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 48424
++ head -c 48424 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 25363
++ head -c 25363 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 59810
++ head -c 59810 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 22761
++ head -c 22761 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 58906
++ head -c 58906 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 36630
++ head -c 36630 /dev/urandom
++ D2=l24
++ mkdir_full /tmp/test-300-6205-arbo/l12/l24
++ mkdir /tmp/test-300-6205-arbo/l12/l24
++ od -An -N1 -i /dev/urandom
++ NBFILE=          30
++ seq 30
++ od -An -N2 -d /dev/urandom
++ SIZE= 19901
++ head -c 19901 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 56401
++ head -c 56401 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 54312
++ head -c 54312 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 36182
++ head -c 36182 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 20889
++ head -c 20889 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 55774
++ head -c 55774 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 57469
++ head -c 57469 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 62758
++ head -c 62758 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 31159
++ head -c 31159 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 26914
++ head -c 26914 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 12841
++ head -c 12841 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  3571
++ head -c 3571 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 37226
++ head -c 37226 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  3763
++ head -c 3763 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 62824
++ head -c 62824 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  4166
++ head -c 4166 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 26248
++ head -c 26248 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 65429
++ head -c 65429 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 60143
++ head -c 60143 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 29740
++ head -c 29740 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 31478
++ head -c 31478 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 38584
++ head -c 38584 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 63296
++ head -c 63296 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=   692
++ head -c 692 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 63300
++ head -c 63300 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 61080
++ head -c 61080 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 30177
++ head -c 30177 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 27754
++ head -c 27754 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 54967
++ head -c 54967 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 15926
++ head -c 15926 /dev/urandom
++ D1=l13
++ mkdir_full /tmp/test-300-6205-arbo/l13
++ mkdir /tmp/test-300-6205-arbo/l13
++ od -An -N1 -i /dev/urandom
++ NBFILE=          93
++ seq 93
++ od -An -N2 -d /dev/urandom
++ SIZE=  1275
++ head -c 1275 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 48501
++ head -c 48501 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 11352
++ head -c 11352 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  6453
++ head -c 6453 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 62272
++ head -c 62272 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 12169
++ head -c 12169 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 44067
++ head -c 44067 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 43444
++ head -c 43444 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 30908
++ head -c 30908 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 10698
++ head -c 10698 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 43019
++ head -c 43019 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 11266
++ head -c 11266 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 48874
++ head -c 48874 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 19523
++ head -c 19523 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 36587
++ head -c 36587 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 24951
++ head -c 24951 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 63085
++ head -c 63085 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  5696
++ head -c 5696 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 27825
++ head -c 27825 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 49329
++ head -c 49329 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 38598
++ head -c 38598 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 14859
++ head -c 14859 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 20683
++ head -c 20683 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 51965
++ head -c 51965 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 35192
++ head -c 35192 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 54556
++ head -c 54556 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 36757
++ head -c 36757 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 23379
++ head -c 23379 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 35671
++ head -c 35671 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 34104
++ head -c 34104 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 16999
++ head -c 16999 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 31317
++ head -c 31317 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 24051
++ head -c 24051 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 20721
++ head -c 20721 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 52666
++ head -c 52666 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 29549
++ head -c 29549 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 34106
++ head -c 34106 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 25655
++ head -c 25655 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 15161
++ head -c 15161 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 48233
++ head -c 48233 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 18566
++ head -c 18566 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 40135
++ head -c 40135 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 49073
++ head -c 49073 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 28699
++ head -c 28699 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 44315
++ head -c 44315 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 49124
++ head -c 49124 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 47889
++ head -c 47889 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 49046
++ head -c 49046 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 36853
++ head -c 36853 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  9663
++ head -c 9663 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  6737
++ head -c 6737 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 15129
++ head -c 15129 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 11321
++ head -c 11321 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 59436
++ head -c 59436 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  8094
++ head -c 8094 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 12049
++ head -c 12049 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 48661
++ head -c 48661 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 27880
++ head -c 27880 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=   830
++ head -c 830 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  8169
++ head -c 8169 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 49295
++ head -c 49295 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 15531
++ head -c 15531 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 59330
++ head -c 59330 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  9689
++ head -c 9689 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  2819
++ head -c 2819 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 29843
++ head -c 29843 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 63648
++ head -c 63648 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 24623
++ head -c 24623 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 38495
++ head -c 38495 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  7395
++ head -c 7395 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=   504
++ head -c 504 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 37375
++ head -c 37375 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 38068
++ head -c 38068 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  9670
++ head -c 9670 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 14999
++ head -c 14999 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 63603
++ head -c 63603 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 54500
++ head -c 54500 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  9871
++ head -c 9871 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 28808
++ head -c 28808 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 60251
++ head -c 60251 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  1764
++ head -c 1764 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  1141
++ head -c 1141 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 33386
++ head -c 33386 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 45024
++ head -c 45024 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  4173
++ head -c 4173 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 50782
++ head -c 50782 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 63183
++ head -c 63183 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 55885
++ head -c 55885 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  9534
++ head -c 9534 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 39393
++ head -c 39393 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 24888
++ head -c 24888 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 38304
++ head -c 38304 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 11836
++ head -c 11836 /dev/urandom
++ D2=l21
++ mkdir_full /tmp/test-300-6205-arbo/l13/l21
++ mkdir /tmp/test-300-6205-arbo/l13/l21
++ od -An -N1 -i /dev/urandom
++ NBFILE=           1
++ seq 1
++ od -An -N2 -d /dev/urandom
++ SIZE= 22404
++ head -c 22404 /dev/urandom
++ D2=l22
++ mkdir_full /tmp/test-300-6205-arbo/l13/l22
++ mkdir /tmp/test-300-6205-arbo/l13/l22
++ od -An -N1 -i /dev/urandom
++ NBFILE=         188
++ seq 188
++ od -An -N2 -d /dev/urandom
++ SIZE= 40918
++ head -c 40918 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  2433
++ head -c 2433 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  5881
++ head -c 5881 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 16160
++ head -c 16160 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 16757
++ head -c 16757 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 16981
++ head -c 16981 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  9686
++ head -c 9686 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 37181
++ head -c 37181 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 13246
++ head -c 13246 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 39212
++ head -c 39212 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 43214
++ head -c 43214 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 64332
++ head -c 64332 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 56585
++ head -c 56585 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 42282
++ head -c 42282 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 60088
++ head -c 60088 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 64672
++ head -c 64672 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 30582
++ head -c 30582 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 31169
++ head -c 31169 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 28846
++ head -c 28846 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  1829
++ head -c 1829 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 64087
++ head -c 64087 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 29141
++ head -c 29141 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 28684
++ head -c 28684 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 56125
++ head -c 56125 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 18151
++ head -c 18151 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 25734
++ head -c 25734 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 61590
++ head -c 61590 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 48522
++ head -c 48522 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 25362
++ head -c 25362 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 13315
++ head -c 13315 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 11427
++ head -c 11427 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 10844
++ head -c 10844 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 36178
++ head -c 36178 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 22549
++ head -c 22549 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 41223
++ head -c 41223 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 37271
++ head -c 37271 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 31631
++ head -c 31631 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 36495
++ head -c 36495 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 21657
++ head -c 21657 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  6966
++ head -c 6966 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 31766
++ head -c 31766 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 47816
++ head -c 47816 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 56621
++ head -c 56621 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 23988
++ head -c 23988 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 57816
++ head -c 57816 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 62611
++ head -c 62611 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 60782
++ head -c 60782 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 30923
++ head -c 30923 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 43983
++ head -c 43983 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 39845
++ head -c 39845 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  3433
++ head -c 3433 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 13282
++ head -c 13282 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 22119
++ head -c 22119 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 36932
++ head -c 36932 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 29215
++ head -c 29215 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 60021
++ head -c 60021 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 33920
++ head -c 33920 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 23158
++ head -c 23158 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 63635
++ head -c 63635 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 11991
++ head -c 11991 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 56638
++ head -c 56638 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 33455
++ head -c 33455 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 46540
++ head -c 46540 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 29482
++ head -c 29482 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 20543
++ head -c 20543 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 26244
++ head -c 26244 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 59895
++ head -c 59895 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 52028
++ head -c 52028 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 11288
++ head -c 11288 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 48264
++ head -c 48264 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 35584
++ head -c 35584 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 38561
++ head -c 38561 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 24507
++ head -c 24507 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 40085
++ head -c 40085 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 32407
++ head -c 32407 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 59776
++ head -c 59776 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 24475
++ head -c 24475 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 37146
++ head -c 37146 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  4673
++ head -c 4673 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 54112
++ head -c 54112 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 60305
++ head -c 60305 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 42752
++ head -c 42752 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 39988
++ head -c 39988 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 29424
++ head -c 29424 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 47023
++ head -c 47023 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 48958
++ head -c 48958 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 12067
++ head -c 12067 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 19030
++ head -c 19030 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 48944
++ head -c 48944 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 13842
++ head -c 13842 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 65203
++ head -c 65203 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 10033
++ head -c 10033 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 65415
++ head -c 65415 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 37729
++ head -c 37729 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  9380
++ head -c 9380 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 49272
++ head -c 49272 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 20357
++ head -c 20357 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  3592
++ head -c 3592 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 13837
++ head -c 13837 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 57230
++ head -c 57230 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 58954
++ head -c 58954 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 17673
++ head -c 17673 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 44205
++ head -c 44205 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=   158
++ head -c 158 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 56887
++ head -c 56887 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 55274
++ head -c 55274 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 51306
++ head -c 51306 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 61532
++ head -c 61532 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 50349
++ head -c 50349 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 42176
++ head -c 42176 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 47381
++ head -c 47381 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 47812
++ head -c 47812 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 24738
++ head -c 24738 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 21369
++ head -c 21369 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 21586
++ head -c 21586 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=   601
++ head -c 601 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 24783
++ head -c 24783 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 53623
++ head -c 53623 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 60081
++ head -c 60081 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 13018
++ head -c 13018 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 54079
++ head -c 54079 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 58743
++ head -c 58743 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 55147
++ head -c 55147 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 20101
++ head -c 20101 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  3654
++ head -c 3654 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 17716
++ head -c 17716 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 28568
++ head -c 28568 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 48299
++ head -c 48299 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 14710
++ head -c 14710 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 32482
++ head -c 32482 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 11895
++ head -c 11895 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 10895
++ head -c 10895 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 40598
++ head -c 40598 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 17917
++ head -c 17917 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  3310
++ head -c 3310 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  6757
++ head -c 6757 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 11193
++ head -c 11193 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 50421
++ head -c 50421 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 13033
++ head -c 13033 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 52273
++ head -c 52273 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 30411
++ head -c 30411 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  7532
++ head -c 7532 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 37772
++ head -c 37772 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 26906
++ head -c 26906 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 12239
++ head -c 12239 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 38252
++ head -c 38252 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 61047
++ head -c 61047 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  8652
++ head -c 8652 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  1822
++ head -c 1822 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 30359
++ head -c 30359 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 16848
++ head -c 16848 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 49123
++ head -c 49123 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 52650
++ head -c 52650 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 35644
++ head -c 35644 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  8793
++ head -c 8793 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 54764
++ head -c 54764 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  4193
++ head -c 4193 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 48462
++ head -c 48462 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 50674
++ head -c 50674 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 20193
++ head -c 20193 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  6327
++ head -c 6327 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 37070
++ head -c 37070 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 65402
++ head -c 65402 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 62908
++ head -c 62908 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 39165
++ head -c 39165 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 20408
++ head -c 20408 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=   832
++ head -c 832 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 13250
++ head -c 13250 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 19177
++ head -c 19177 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  6804
++ head -c 6804 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 59957
++ head -c 59957 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  3894
++ head -c 3894 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 36902
++ head -c 36902 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 48974
++ head -c 48974 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  2058
++ head -c 2058 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 39558
++ head -c 39558 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 53441
++ head -c 53441 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 47908
++ head -c 47908 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 16811
++ head -c 16811 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 52808
++ head -c 52808 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 42443
++ head -c 42443 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 11137
++ head -c 11137 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 53007
++ head -c 53007 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 21921
++ head -c 21921 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 60679
++ head -c 60679 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  1052
++ head -c 1052 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 58924
++ head -c 58924 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 21665
++ head -c 21665 /dev/urandom
++ D2=l23
++ mkdir_full /tmp/test-300-6205-arbo/l13/l23
++ mkdir /tmp/test-300-6205-arbo/l13/l23
++ od -An -N1 -i /dev/urandom
++ NBFILE=          12
++ seq 12
++ od -An -N2 -d /dev/urandom
++ SIZE= 55858
++ head -c 55858 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 51607
++ head -c 51607 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 22689
++ head -c 22689 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 47274
++ head -c 47274 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 13626
++ head -c 13626 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 24327
++ head -c 24327 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 11421
++ head -c 11421 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 25600
++ head -c 25600 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 61345
++ head -c 61345 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 33100
++ head -c 33100 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 51401
++ head -c 51401 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 13094
++ head -c 13094 /dev/urandom
++ D2=l24
++ mkdir_full /tmp/test-300-6205-arbo/l13/l24
++ mkdir /tmp/test-300-6205-arbo/l13/l24
++ od -An -N1 -i /dev/urandom
++ NBFILE=         158
++ seq 158
++ od -An -N2 -d /dev/urandom
++ SIZE=  7501
++ head -c 7501 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  6554
++ head -c 6554 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 20401
++ head -c 20401 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 25833
++ head -c 25833 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  3656
++ head -c 3656 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 55170
++ head -c 55170 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 40295
++ head -c 40295 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 51658
++ head -c 51658 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 27492
++ head -c 27492 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 63108
++ head -c 63108 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 43835
++ head -c 43835 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 64509
++ head -c 64509 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 47618
++ head -c 47618 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 37817
++ head -c 37817 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 51628
++ head -c 51628 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 11222
++ head -c 11222 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 36749
++ head -c 36749 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 12725
++ head -c 12725 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 53793
++ head -c 53793 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 43789
++ head -c 43789 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 57053
++ head -c 57053 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 10235
++ head -c 10235 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 51557
++ head -c 51557 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 47282
++ head -c 47282 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  7013
++ head -c 7013 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  9613
++ head -c 9613 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 50541
++ head -c 50541 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  8594
++ head -c 8594 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 20630
++ head -c 20630 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 24281
++ head -c 24281 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 64358
++ head -c 64358 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 38279
++ head -c 38279 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 18136
++ head -c 18136 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 15505
++ head -c 15505 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 45990
++ head -c 45990 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 39601
++ head -c 39601 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 49683
++ head -c 49683 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 62523
++ head -c 62523 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  6754
++ head -c 6754 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 50579
++ head -c 50579 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 11545
++ head -c 11545 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 43301
++ head -c 43301 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  7663
++ head -c 7663 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  7901
++ head -c 7901 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 55361
++ head -c 55361 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  2456
++ head -c 2456 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 36149
++ head -c 36149 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 46587
++ head -c 46587 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  7562
++ head -c 7562 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 26191
++ head -c 26191 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 52483
++ head -c 52483 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  8468
++ head -c 8468 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 43690
++ head -c 43690 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 21161
++ head -c 21161 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 17871
++ head -c 17871 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 58444
++ head -c 58444 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 23768
++ head -c 23768 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  4690
++ head -c 4690 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  7995
++ head -c 7995 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 22314
++ head -c 22314 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 39108
++ head -c 39108 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=   649
++ head -c 649 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  6957
++ head -c 6957 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 11903
++ head -c 11903 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 15945
++ head -c 15945 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 11679
++ head -c 11679 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 46675
++ head -c 46675 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  1309
++ head -c 1309 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  4840
++ head -c 4840 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  5165
++ head -c 5165 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  2985
++ head -c 2985 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=    72
++ head -c 72 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  1332
++ head -c 1332 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 42446
++ head -c 42446 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  5254
++ head -c 5254 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 44063
++ head -c 44063 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 26651
++ head -c 26651 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  5932
++ head -c 5932 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 58615
++ head -c 58615 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 14737
++ head -c 14737 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 29598
++ head -c 29598 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 10241
++ head -c 10241 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 46743
++ head -c 46743 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 50158
++ head -c 50158 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 39418
++ head -c 39418 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 28234
++ head -c 28234 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 20475
++ head -c 20475 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 50244
++ head -c 50244 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 64537
++ head -c 64537 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 63192
++ head -c 63192 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 14585
++ head -c 14585 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 19349
++ head -c 19349 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 35273
++ head -c 35273 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 20476
++ head -c 20476 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 53410
++ head -c 53410 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 28584
++ head -c 28584 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 44903
++ head -c 44903 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  5028
++ head -c 5028 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 56087
++ head -c 56087 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 14081
++ head -c 14081 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 30269
++ head -c 30269 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 51532
++ head -c 51532 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 27980
++ head -c 27980 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 48679
++ head -c 48679 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  1660
++ head -c 1660 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  7553
++ head -c 7553 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 17179
++ head -c 17179 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 46952
++ head -c 46952 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 33955
++ head -c 33955 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 21832
++ head -c 21832 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 54011
++ head -c 54011 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 22000
++ head -c 22000 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 17795
++ head -c 17795 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 41894
++ head -c 41894 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 49884
++ head -c 49884 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 39925
++ head -c 39925 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 29167
++ head -c 29167 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 35424
++ head -c 35424 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  1579
++ head -c 1579 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 57961
++ head -c 57961 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 46706
++ head -c 46706 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 33683
++ head -c 33683 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 43357
++ head -c 43357 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 21873
++ head -c 21873 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 31865
++ head -c 31865 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 16265
++ head -c 16265 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 53810
++ head -c 53810 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  3585
++ head -c 3585 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 36880
++ head -c 36880 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 57273
++ head -c 57273 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  4797
++ head -c 4797 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 18189
++ head -c 18189 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 22044
++ head -c 22044 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 23745
++ head -c 23745 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 64752
++ head -c 64752 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  6839
++ head -c 6839 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 37376
++ head -c 37376 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 41987
++ head -c 41987 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 54781
++ head -c 54781 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 62329
++ head -c 62329 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 53790
++ head -c 53790 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 11309
++ head -c 11309 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  7018
++ head -c 7018 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 64869
++ head -c 64869 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 24733
++ head -c 24733 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 44123
++ head -c 44123 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 37132
++ head -c 37132 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  6231
++ head -c 6231 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 29814
++ head -c 29814 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 55527
++ head -c 55527 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 23926
++ head -c 23926 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 29013
++ head -c 29013 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 47443
++ head -c 47443 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 38424
++ head -c 38424 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE=  1984
++ head -c 1984 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 15241
++ head -c 15241 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 47354
++ head -c 47354 /dev/urandom
++ od -An -N2 -d /dev/urandom
++ SIZE= 14698
++ head -c 14698 /dev/urandom
++ ./myrmdir /tmp/test-300-6205-arbo
++ test -e /tmp/test-300-6205-arbo
++ fail ./myrmdir: suppression d'une arborescence : répertoire non supprimé
++ echo ==> Échec du test 'test-300' sur './myrmdir: suppression d'une arborescence : répertoire non supprimé'.
++ echo ==> Log : 'test-300.log'.
++ echo ==> Exit
++ exit 1

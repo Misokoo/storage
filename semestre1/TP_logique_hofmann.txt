@@ -1,0 +1,81 @@
+
+Section Partie1.
+
+
+
+Inductive liste : Type :=
+| nil : liste
+|C : nat -> liste -> liste.
+
+Check (C 3 (C 2 nil)).
+
+Fixpoint length (L: liste) := 
+match L with
+| nil => 0
+| C x L' => 1 + length L'
+end.
+
+Eval compute in (length (C 2 nil)).
+
+Definition head L1 :=
+match L1 with 
+| nil => 0
+| C x L' => x
+end.
+
+Notation "x :: L" := (C x L).
+
+Eval compute in (length (2 :: 3 :: 5 :: nil)).
+Eval compute in (head (2 :: 3 :: 5 :: nil)).
+Eval compute in (head (C 2 (C 1 nil))).
+
+Fixpoint concat(L1 L2 : liste) :=
+match L1 with
+  |nil => L2
+  |C x nil => C x L2
+  |C x L11 => C x (concat L11 L2)
+end.
+
+Eval compute in concat (3 :: 5 :: nil) (1 :: 2 :: nil).
+
+
+Theorem long (l m : liste) :
+  length(concat l m) = length l + length m.
+Proof.
+induction l.
+simpl.
+reflexivity.
+simpl.
+admit.
+Admitted.
+
+Theorem th_head_concat (l1 l2:liste) :
+l1 = nil -> head (concat l1 l2) = head l2.
+Proof.
+intro.
+rewrite H.
+simpl.
+reflexivity.
+Qed.
+
+Definition tail L1 :=
+match L1 with 
+| nil => nil
+| C x L' => L'
+end.
+
+Fixpoint ajoutqueue (L : liste)  (x : nat) := match L with
+|nil => x :: nil
+| t :: q => t :: (ajoutqueue q x)
+end.
+
+Theorem lgajout (x : nat) (l : liste) : 
+  length (ajoutqueue l x )  = 1 + length l.
+induction l.
+simpl.
+reflexivity.
+simpl.
+rewrite IHl.
+simpl.
+reflexivity.
+

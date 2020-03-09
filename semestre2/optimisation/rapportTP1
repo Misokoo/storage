@@ -1,0 +1,21 @@
+\documentclass{report}
+
+\usepackage[latin1]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[francais]{babel}
+
+\begin{document}
+
+\part{}
+\chapter{Chapitre}
+\section{Section}
+\subsection{Une sous-section}
+moniteur : on met en parallele l'execution du prog avec un affichage de programm
+        
+
+\subsection{Une sous-section2}
+
+\paragraph{mon para}
+cours fichiers
+
+\end{document}

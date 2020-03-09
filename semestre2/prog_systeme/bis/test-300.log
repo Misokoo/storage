@@ -1,0 +1,6 @@
++ creer_fichier_std
++ cat /usr/share/dict/words
++ ./mysed inejad XXXXXXXXXXXX /tmp/test-300-23442-src
++ test_file inejad XXXXXXXXXXXX /tmp/test-300-23442-src /tmp/test-300-23442-resu
++ ./mysed a b /bin/ls
++ test_file a b /bin/ls /tmp/test-300-23442-resu

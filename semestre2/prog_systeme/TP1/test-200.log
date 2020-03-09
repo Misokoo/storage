@@ -1,0 +1,4 @@
++ creer_fichier
++ cat /usr/share/dict/words
++ sort -R
++ ./mysed a b /tmp/test-200-6308-src

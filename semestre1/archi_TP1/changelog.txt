@@ -1,0 +1,6 @@
+JOHNNY 1.01
+
+Changes w.r.t. Version 1.00
++ Variable PC_CT changed from "byte" to "integer" (in order to avoid problems with addresses beyond 255).
++ Column Headline "Op" in RAM changed to "Opnd" (in order to avoid confusion with, e.g. "Opcode")
+

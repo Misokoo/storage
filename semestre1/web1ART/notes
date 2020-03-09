@@ -1,0 +1,89 @@
+php.net mieux que tuto
+
+php.ini
+dans /etc/php/numversion/cli/php.ini    si on st dans le terminal
+pour moi :
+/etc/php/7.2/cli/php.ini
+dans php.info
+
+/*
+php.info
+on a la version du system, on cherche sur internet les failles qui existent et bim badaboum hackerman
+*/
+
+pour ouvrir un local server
+php -S localhost:8000
+
+afficher la configuration de php
+<?php
+phpinfo();
+
+
+tableau en php exemple
+[0 => "zero
+1 => "un"
+]
+lindice s'appelle "la clé", on ffecte à la clé la chaine de caractere a droite
+
+var_champ($tab) affiche le tableau entier
+
+?= pour appeler le php dans un html
+toujours ouvrir dans un fichier .php meme is ya le html css dedans
+
+require_once 'model' test si le model a deja été execute, sin renvoie une erreur
+
+
+checker cest quoi dans le <form method="POST" ou "GET">
+
+var_dump($_requetest[POST/GET]); et p, aura le resultat du form
+
+mysqlp à pas utiliser, préviligier PDO (php data objects)
+ça permet de pas avoir a changer notre code php si on change de BDD
+
+page 27 pour connection à une BDD
+methode try catch
+PDO(bdd, user, mdp)
+query() on met une requette sql, go check la doc
+
+concaténation en php cestle point
+ex
+$this->lastName . ’ ’ . $this->firstName;
+
+peut pas faire un echo dun objet ou duntableau
+obliger de faire un toString pour pouvoir faire laffichage
+
+interet de serialiser un tableau : le metrte dans un formulaire, puis on le recupere en deserialisant
+
+espace de nom : interet d'utiliser deux tables de meme noms avec attribut different d
+ex:
+namespace MonAppli;
+client = new MonAppli\Client();
+
+toutes les erreurs sauf les notices :
+error_reporting = E_ALL & ~E_NOTICE
+
+
+p43
+dans un formulaire en get on peut passer du code mysqlp
+
+SELECT *
+FROM users
+WHERE id='toto'-' AND pawd=''
+ou avec un ; à la place du - cest pareil
+
+check manuel de la fonction prepare sur php.internet
+fonction password_hash pour
+
+PHP-FIG : standard de php à aller voir
+packagist : librairie pour faire du pdf en php
+
+
+/*
+<h1>Liste des clients</h1>
+<?php
+echo "<pre>";
+$tab=array('1', 'deux', 2);
+var_dump($tab);
+echo "</pre>";
+echo serialize($tab);
+*/

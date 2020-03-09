@@ -1,0 +1,3 @@
+Inductive liste : Type :=
+  |nil : liste
+  |C : nat -> liste -> liste
