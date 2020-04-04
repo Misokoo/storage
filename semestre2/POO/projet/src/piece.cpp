@@ -12,7 +12,6 @@ bool diagonal_move(Square o, Square d)
 
   if (abs((int)(d.get_coord()[0] - o.get_coord()[0])) == abs((int)(d.get_coord()[1] - o.get_coord()[1])))
     result = true;
-
   return result;
 }
 
@@ -67,6 +66,26 @@ bool Piece::get_already_moved() const
 bool Piece::get_is_pawn() const
 {
   return this->is_pawn;
+}
+
+bool Piece::get_is_rock() const
+{
+  return this->is_rock;
+}
+
+bool Piece::get_is_bishop() const
+{
+  return this->is_bishop;
+}
+
+bool Piece::get_is_queen() const
+{
+  return this->is_queen;
+}
+
+bool Piece::get_is_king() const
+{
+  return this->is_king;
 }
 
 Square
@@ -140,7 +159,7 @@ bool Rock::movment_legal(Square orig, Square dest) const
 }
 
 ///////////////////////////////
-bool Bishops::movment_legal(const Square orig, Square dest) const // gère pas encore le fait de pas traverser les pieces
+bool Bishops::movment_legal(const Square orig, Square dest) const 
 {
   cout << "we are mooving a bishop" << endl;
   bool result = diagonal_move(orig, dest);
@@ -178,15 +197,14 @@ bool King::movment_legal(const Square o, Square d) const
 bool Knights::movment_legal(const Square o, Square d) const
 {
   bool result(false);
-  if ( (abs((int)(d.get_coord()[0] - o.get_coord()[0])) +
-      abs((int)(d.get_coord()[1] - o.get_coord()[1])) ) == 3 &&
+  if ((abs((int)(d.get_coord()[0] - o.get_coord()[0])) +
+       abs((int)(d.get_coord()[1] - o.get_coord()[1]))) == 3 &&
       abs((int)(d.get_coord()[0] - o.get_coord()[0])) < 3 &&
-      abs((int)(d.get_coord()[1] - o.get_coord()[1])) < 3 )
-      {
-        cout << "you are mooving a Knights" << endl;
-        return true;
-      }
+      abs((int)(d.get_coord()[1] - o.get_coord()[1])) < 3)
+  {
+    cout << "you are mooving a Knights" << endl;
+    return true;
+  }
   cout << "Knights dont moove that way" << endl;
-  return result; 
-
+  return result;
 }

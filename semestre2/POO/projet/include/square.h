@@ -47,6 +47,7 @@ public:
      " created" << this-> coord_to_string() << endl;
   }
 
+
   string to_string() const;
   string coord_to_string() const;
   const size_t* get_coord() const;

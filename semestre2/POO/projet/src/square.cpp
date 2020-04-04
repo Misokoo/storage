@@ -18,7 +18,7 @@ Square::coord_to_string() const
   string pa1 = "(";
   string pa2 = ")";
   string virgule = ",";
-  string lettres = "abcdefgh";
+  //string lettres = "abcdefgh";
   //lettres[this->coord[0]]
   string my_coord {pa1+ std::to_string(invert_posx(this->coord[0]))+virgule+
     std::to_string(this->coord[1])+pa2 };

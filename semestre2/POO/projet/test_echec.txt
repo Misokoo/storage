@@ -1,0 +1,614 @@
+Constructeur 2 de Square : Square a1 created(7,0)
+constructeur de : piece  ♖  de couleur Black créée en position a1 (7,0)
+Constructeur de Rock: [ ♖ ] well created
+Constructeur 2 de Square : Square b1 created(7,1)
+constructeur de : piece  ♘  de couleur Black créée en position b1 (7,1)
+[ ♘ ] well created
+Constructeur 2 de Square : Square c1 created(7,2)
+constructeur de : piece  ♗  de couleur Black créée en position c1 (7,2)
+Constructeur de Bishops : [ ♗ ] well created
+Constructeur 2 de Square : Square d1 created(7,3)
+constructeur de : piece  ♕  de couleur Black créée en position d1 (7,3)
+[ ♕ ] well created
+Constructeur 2 de Square : Square e1 created(7,4)
+constructeur de : piece  ♔  de couleur Black créée en position e1 (7,4)
+[ ♔ ] well created
+Constructeur 2 de Square : Square f1 created(7,5)
+constructeur de : piece  ♗  de couleur Black créée en position f1 (7,5)
+Constructeur de Bishops : [ ♗ ] well created
+Constructeur 2 de Square : Square g1 created(7,6)
+constructeur de : piece  ♘  de couleur Black créée en position g1 (7,6)
+[ ♘ ] well created
+Constructeur 2 de Square : Square h1 created(7,7)
+constructeur de : piece  ♖  de couleur Black créée en position h1 (7,7)
+Constructeur de Rock: [ ♖ ] well created
+Constructeur 2 de Square : Square a8 created(0,0)
+constructeur de : piece  ♜  de couleur White créée en position a8 (0,0)
+Constructeur de Rock: [ ♜ ] well created
+Constructeur 2 de Square : Square b8 created(0,1)
+constructeur de : piece  ♞  de couleur White créée en position b8 (0,1)
+[ ♞ ] well created
+Constructeur 2 de Square : Square c8 created(0,2)
+constructeur de : piece  ♝  de couleur White créée en position c8 (0,2)
+Constructeur de Bishops : [ ♝ ] well created
+Constructeur 2 de Square : Square d8 created(0,3)
+constructeur de : piece  ♛  de couleur White créée en position d8 (0,3)
+[ ♛ ] well created
+Constructeur 2 de Square : Square e8 created(0,4)
+constructeur de : piece  ♚  de couleur White créée en position e8 (0,4)
+[ ♚ ] well created
+Constructeur 2 de Square : Square f8 created(0,5)
+constructeur de : piece  ♝  de couleur White créée en position f8 (0,5)
+Constructeur de Bishops : [ ♝ ] well created
+Constructeur 2 de Square : Square g8 created(0,6)
+constructeur de : piece  ♞  de couleur White créée en position g8 (0,6)
+[ ♞ ] well created
+Constructeur 2 de Square : Square h8 created(0,7)
+constructeur de : piece  ♜  de couleur White créée en position h8 (0,7)
+Constructeur de Rock: [ ♜ ] well created
+Constructeur 2 de Square : Square a2 created(6,0)
+constructeur de : piece  ♙  de couleur Black créée en position a2 (6,0)
+ Constructeur de Pawn: Pawn [ ♙ ] well created
+Constructeur 2 de Square : Square a7 created(1,0)
+constructeur de : piece  ♟  de couleur White créée en position a7 (1,0)
+ Constructeur de Pawn: Pawn [ ♟ ] well created
+Constructeur 2 de Square : Square b2 created(6,1)
+constructeur de : piece  ♙  de couleur Black créée en position b2 (6,1)
+ Constructeur de Pawn: Pawn [ ♙ ] well created
+Constructeur 2 de Square : Square b7 created(1,1)
+constructeur de : piece  ♟  de couleur White créée en position b7 (1,1)
+ Constructeur de Pawn: Pawn [ ♟ ] well created
+Constructeur 2 de Square : Square c2 created(6,2)
+constructeur de : piece  ♙  de couleur Black créée en position c2 (6,2)
+ Constructeur de Pawn: Pawn [ ♙ ] well created
+Constructeur 2 de Square : Square c7 created(1,2)
+constructeur de : piece  ♟  de couleur White créée en position c7 (1,2)
+ Constructeur de Pawn: Pawn [ ♟ ] well created
+Constructeur 2 de Square : Square d2 created(6,3)
+constructeur de : piece  ♙  de couleur Black créée en position d2 (6,3)
+ Constructeur de Pawn: Pawn [ ♙ ] well created
+Constructeur 2 de Square : Square d7 created(1,3)
+constructeur de : piece  ♟  de couleur White créée en position d7 (1,3)
+ Constructeur de Pawn: Pawn [ ♟ ] well created
+Constructeur 2 de Square : Square e2 created(6,4)
+constructeur de : piece  ♙  de couleur Black créée en position e2 (6,4)
+ Constructeur de Pawn: Pawn [ ♙ ] well created
+Constructeur 2 de Square : Square e7 created(1,4)
+constructeur de : piece  ♟  de couleur White créée en position e7 (1,4)
+ Constructeur de Pawn: Pawn [ ♟ ] well created
+Constructeur 2 de Square : Square f2 created(6,5)
+constructeur de : piece  ♙  de couleur Black créée en position f2 (6,5)
+ Constructeur de Pawn: Pawn [ ♙ ] well created
+Constructeur 2 de Square : Square f7 created(1,5)
+constructeur de : piece  ♟  de couleur White créée en position f7 (1,5)
+ Constructeur de Pawn: Pawn [ ♟ ] well created
+Constructeur 2 de Square : Square g2 created(6,6)
+constructeur de : piece  ♙  de couleur Black créée en position g2 (6,6)
+ Constructeur de Pawn: Pawn [ ♙ ] well created
+Constructeur 2 de Square : Square g7 created(1,6)
+constructeur de : piece  ♟  de couleur White créée en position g7 (1,6)
+ Constructeur de Pawn: Pawn [ ♟ ] well created
+Constructeur 2 de Square : Square h2 created(6,7)
+constructeur de : piece  ♙  de couleur Black créée en position h2 (6,7)
+ Constructeur de Pawn: Pawn [ ♙ ] well created
+Constructeur 2 de Square : Square h7 created(1,7)
+constructeur de : piece  ♟  de couleur White créée en position h7 (1,7)
+ Constructeur de Pawn: Pawn [ ♟ ] well created
+
+     a     b     c     d     e     f     g     h    
+  +-----+-----+-----+-----+-----+-----+-----+-----+
+8 |  ♖  |  ♘  |  ♗  |  ♕  |  ♔  |  ♗  |  ♘  |  ♖  |
+  +-----+-----+-----+-----+-----+-----+-----+-----+
+7 |  ♙  |  ♙  |  ♙  |  ♙  |  ♙  |  ♙  |  ♙  |  ♙  |
+  +-----+-----+-----+-----+-----+-----+-----+-----+
+6 |     |     |     |     |     |     |     |     |
+  +-----+-----+-----+-----+-----+-----+-----+-----+
+5 |     |     |     |     |     |     |     |     |
+  +-----+-----+-----+-----+-----+-----+-----+-----+
+4 |     |     |     |     |     |     |     |     |
+  +-----+-----+-----+-----+-----+-----+-----+-----+
+3 |     |     |     |     |     |     |     |     |
+  +-----+-----+-----+-----+-----+-----+-----+-----+
+2 |  ♟  |  ♟  |  ♟  |  ♟  |  ♟  |  ♟  |  ♟  |  ♟  |
+  +-----+-----+-----+-----+-----+-----+-----+-----+
+1 |  ♜  |  ♞  |  ♝  |  ♛  |  ♚  |  ♝  |  ♞  |  ♜  |
+  +-----+-----+-----+-----+-----+-----+-----+-----+
+ player White to play
+Constructeur 1  de Square : Square e2 created en position (6,4)
+Constructeur 1  de Square : Square e4 created en position (4,4)
+youre mooving a pawn
+moove de 2 white
+on est la
+44 ♟ 
+60 ♟ 
+61 ♟ 
+62 ♟ 
+63 ♟ 
+65 ♟ 
+66 ♟ 
+67 ♟ 
+70 ♜ 
+71 ♞ 
+72 ♝ 
+73 ♛ 
+74 ♚ 
+king is  ♚ 
+75 ♝ 
+76 ♞ 
+77 ♜ 
+current piece  ♖ 
+Constructeur 2 de Square : Square a8 created(0,0)
+Constructeur 2 de Square : Square e1 created(7,4)
+we are mooving a rock
+Rocks only moove in a straight way
+current piece  ♘ 
+Constructeur 2 de Square : Square b8 created(0,1)
+Constructeur 2 de Square : Square e1 created(7,4)
+Knights dont moove that way
+current piece  ♗ 
+Constructeur 2 de Square : Square c8 created(0,2)
+Constructeur 2 de Square : Square e1 created(7,4)
+we are mooving a bishop
+Bishops only moove in diag
+current piece  ♕ 
+Constructeur 2 de Square : Square d8 created(0,3)
+Constructeur 2 de Square : Square e1 created(7,4)
+queen doesnt moove that way
+current piece  ♔ 
+Constructeur 2 de Square : Square e8 created(0,4)
+Constructeur 2 de Square : Square e1 created(7,4)
+Kings dont moove that way
+current piece  ♗ 
+Constructeur 2 de Square : Square f8 created(0,5)
+Constructeur 2 de Square : Square e1 created(7,4)
+we are mooving a bishop
+Bishops only moove in diag
+current piece  ♘ 
+Constructeur 2 de Square : Square g8 created(0,6)
+Constructeur 2 de Square : Square e1 created(7,4)
+Knights dont moove that way
+current piece  ♖ 
+Constructeur 2 de Square : Square h8 created(0,7)
+Constructeur 2 de Square : Square e1 created(7,4)
+we are mooving a rock
+Rocks only moove in a straight way
+current piece  ♙ 
+Constructeur 2 de Square : Square a7 created(1,0)
+Constructeur 2 de Square : Square e1 created(7,4)
+youre mooving a pawn
+current piece  ♙ 
+Constructeur 2 de Square : Square b7 created(1,1)
+Constructeur 2 de Square : Square e1 created(7,4)
+youre mooving a pawn
+current piece  ♙ 
+Constructeur 2 de Square : Square c7 created(1,2)
+Constructeur 2 de Square : Square e1 created(7,4)
+youre mooving a pawn
+current piece  ♙ 
+Constructeur 2 de Square : Square d7 created(1,3)
+Constructeur 2 de Square : Square e1 created(7,4)
+youre mooving a pawn
+current piece  ♙ 
+Constructeur 2 de Square : Square e7 created(1,4)
+Constructeur 2 de Square : Square e1 created(7,4)
+youre mooving a pawn
+current piece  ♙ 
+Constructeur 2 de Square : Square f7 created(1,5)
+Constructeur 2 de Square : Square e1 created(7,4)
+youre mooving a pawn
+current piece  ♙ 
+Constructeur 2 de Square : Square g7 created(1,6)
+Constructeur 2 de Square : Square e1 created(7,4)
+youre mooving a pawn
+current piece  ♙ 
+Constructeur 2 de Square : Square h7 created(1,7)
+Constructeur 2 de Square : Square e1 created(7,4)
+youre mooving a pawn
+coup bien joué, on change de personne
+
+     a     b     c     d     e     f     g     h    
+  +-----+-----+-----+-----+-----+-----+-----+-----+
+8 |  ♖  |  ♘  |  ♗  |  ♕  |  ♔  |  ♗  |  ♘  |  ♖  |
+  +-----+-----+-----+-----+-----+-----+-----+-----+
+7 |  ♙  |  ♙  |  ♙  |  ♙  |  ♙  |  ♙  |  ♙  |  ♙  |
+  +-----+-----+-----+-----+-----+-----+-----+-----+
+6 |     |     |     |     |     |     |     |     |
+  +-----+-----+-----+-----+-----+-----+-----+-----+
+5 |     |     |     |     |     |     |     |     |
+  +-----+-----+-----+-----+-----+-----+-----+-----+
+4 |     |     |     |     |  ♟  |     |     |     |
+  +-----+-----+-----+-----+-----+-----+-----+-----+
+3 |     |     |     |     |     |     |     |     |
+  +-----+-----+-----+-----+-----+-----+-----+-----+
+2 |  ♟  |  ♟  |  ♟  |  ♟  |     |  ♟  |  ♟  |  ♟  |
+  +-----+-----+-----+-----+-----+-----+-----+-----+
+1 |  ♜  |  ♞  |  ♝  |  ♛  |  ♚  |  ♝  |  ♞  |  ♜  |
+  +-----+-----+-----+-----+-----+-----+-----+-----+
+ player Black to play
+Constructeur 1  de Square : Square d7 created en position (1,3)
+Constructeur 1  de Square : Square d5 created en position (3,3)
+youre mooving a pawn
+moove de 2 black
+on est la
+00 ♖ 
+01 ♘ 
+02 ♗ 
+03 ♕ 
+04 ♔ 
+king is  ♔ 
+05 ♗ 
+06 ♘ 
+07 ♖ 
+10 ♙ 
+11 ♙ 
+12 ♙ 
+14 ♙ 
+15 ♙ 
+16 ♙ 
+17 ♙ 
+33 ♙ 
+current piece  ♟ 
+Constructeur 2 de Square : Square e4 created(4,4)
+Constructeur 2 de Square : Square e8 created(0,4)
+youre mooving a pawn
+current piece  ♟ 
+Constructeur 2 de Square : Square a2 created(6,0)
+Constructeur 2 de Square : Square e8 created(0,4)
+youre mooving a pawn
+current piece  ♟ 
+Constructeur 2 de Square : Square b2 created(6,1)
+Constructeur 2 de Square : Square e8 created(0,4)
+youre mooving a pawn
+current piece  ♟ 
+Constructeur 2 de Square : Square c2 created(6,2)
+Constructeur 2 de Square : Square e8 created(0,4)
+youre mooving a pawn
+current piece  ♟ 
+Constructeur 2 de Square : Square d2 created(6,3)
+Constructeur 2 de Square : Square e8 created(0,4)
+youre mooving a pawn
+current piece  ♟ 
+Constructeur 2 de Square : Square f2 created(6,5)
+Constructeur 2 de Square : Square e8 created(0,4)
+youre mooving a pawn
+current piece  ♟ 
+Constructeur 2 de Square : Square g2 created(6,6)
+Constructeur 2 de Square : Square e8 created(0,4)
+youre mooving a pawn
+current piece  ♟ 
+Constructeur 2 de Square : Square h2 created(6,7)
+Constructeur 2 de Square : Square e8 created(0,4)
+youre mooving a pawn
+current piece  ♜ 
+Constructeur 2 de Square : Square a1 created(7,0)
+Constructeur 2 de Square : Square e8 created(0,4)
+we are mooving a rock
+Rocks only moove in a straight way
+current piece  ♞ 
+Constructeur 2 de Square : Square b1 created(7,1)
+Constructeur 2 de Square : Square e8 created(0,4)
+Knights dont moove that way
+current piece  ♝ 
+Constructeur 2 de Square : Square c1 created(7,2)
+Constructeur 2 de Square : Square e8 created(0,4)
+we are mooving a bishop
+Bishops only moove in diag
+current piece  ♛ 
+Constructeur 2 de Square : Square d1 created(7,3)
+Constructeur 2 de Square : Square e8 created(0,4)
+queen doesnt moove that way
+current piece  ♚ 
+Constructeur 2 de Square : Square e1 created(7,4)
+Constructeur 2 de Square : Square e8 created(0,4)
+Kings dont moove that way
+current piece  ♝ 
+Constructeur 2 de Square : Square f1 created(7,5)
+Constructeur 2 de Square : Square e8 created(0,4)
+we are mooving a bishop
+Bishops only moove in diag
+current piece  ♞ 
+Constructeur 2 de Square : Square g1 created(7,6)
+Constructeur 2 de Square : Square e8 created(0,4)
+Knights dont moove that way
+current piece  ♜ 
+Constructeur 2 de Square : Square h1 created(7,7)
+Constructeur 2 de Square : Square e8 created(0,4)
+we are mooving a rock
+Rocks only moove in a straight way
+coup bien joué, on change de personne
+
+     a     b     c     d     e     f     g     h    
+  +-----+-----+-----+-----+-----+-----+-----+-----+
+8 |  ♖  |  ♘  |  ♗  |  ♕  |  ♔  |  ♗  |  ♘  |  ♖  |
+  +-----+-----+-----+-----+-----+-----+-----+-----+
+7 |  ♙  |  ♙  |  ♙  |     |  ♙  |  ♙  |  ♙  |  ♙  |
+  +-----+-----+-----+-----+-----+-----+-----+-----+
+6 |     |     |     |     |     |     |     |     |
+  +-----+-----+-----+-----+-----+-----+-----+-----+
+5 |     |     |     |  ♙  |     |     |     |     |
+  +-----+-----+-----+-----+-----+-----+-----+-----+
+4 |     |     |     |     |  ♟  |     |     |     |
+  +-----+-----+-----+-----+-----+-----+-----+-----+
+3 |     |     |     |     |     |     |     |     |
+  +-----+-----+-----+-----+-----+-----+-----+-----+
+2 |  ♟  |  ♟  |  ♟  |  ♟  |     |  ♟  |  ♟  |  ♟  |
+  +-----+-----+-----+-----+-----+-----+-----+-----+
+1 |  ♜  |  ♞  |  ♝  |  ♛  |  ♚  |  ♝  |  ♞  |  ♜  |
+  +-----+-----+-----+-----+-----+-----+-----+-----+
+ player White to play
+Constructeur 1  de Square : Square f1 created en position (7,5)
+Constructeur 1  de Square : Square b5 created en position (3,1)
+we are mooving a bishop
+Constructeur 2 de Square : Square e2 created(6,4)
+Constructeur 2 de Square : Square d3 created(5,3)
+Constructeur 2 de Square : Square c4 created(4,2)
+ok Bishop, you didnt cross any pieces
+on est la
+31 ♝ 
+44 ♟ 
+60 ♟ 
+61 ♟ 
+62 ♟ 
+63 ♟ 
+65 ♟ 
+66 ♟ 
+67 ♟ 
+70 ♜ 
+71 ♞ 
+72 ♝ 
+73 ♛ 
+74 ♚ 
+king is  ♚ 
+76 ♞ 
+77 ♜ 
+current piece  ♖ 
+Constructeur 2 de Square : Square a8 created(0,0)
+Constructeur 2 de Square : Square e1 created(7,4)
+we are mooving a rock
+Rocks only moove in a straight way
+current piece  ♘ 
+Constructeur 2 de Square : Square b8 created(0,1)
+Constructeur 2 de Square : Square e1 created(7,4)
+Knights dont moove that way
+current piece  ♗ 
+Constructeur 2 de Square : Square c8 created(0,2)
+Constructeur 2 de Square : Square e1 created(7,4)
+we are mooving a bishop
+Bishops only moove in diag
+current piece  ♕ 
+Constructeur 2 de Square : Square d8 created(0,3)
+Constructeur 2 de Square : Square e1 created(7,4)
+queen doesnt moove that way
+current piece  ♔ 
+Constructeur 2 de Square : Square e8 created(0,4)
+Constructeur 2 de Square : Square e1 created(7,4)
+Kings dont moove that way
+current piece  ♗ 
+Constructeur 2 de Square : Square f8 created(0,5)
+Constructeur 2 de Square : Square e1 created(7,4)
+we are mooving a bishop
+Bishops only moove in diag
+current piece  ♘ 
+Constructeur 2 de Square : Square g8 created(0,6)
+Constructeur 2 de Square : Square e1 created(7,4)
+Knights dont moove that way
+current piece  ♖ 
+Constructeur 2 de Square : Square h8 created(0,7)
+Constructeur 2 de Square : Square e1 created(7,4)
+we are mooving a rock
+Rocks only moove in a straight way
+current piece  ♙ 
+Constructeur 2 de Square : Square a7 created(1,0)
+Constructeur 2 de Square : Square e1 created(7,4)
+youre mooving a pawn
+current piece  ♙ 
+Constructeur 2 de Square : Square b7 created(1,1)
+Constructeur 2 de Square : Square e1 created(7,4)
+youre mooving a pawn
+current piece  ♙ 
+Constructeur 2 de Square : Square c7 created(1,2)
+Constructeur 2 de Square : Square e1 created(7,4)
+youre mooving a pawn
+current piece  ♙ 
+Constructeur 2 de Square : Square e7 created(1,4)
+Constructeur 2 de Square : Square e1 created(7,4)
+youre mooving a pawn
+current piece  ♙ 
+Constructeur 2 de Square : Square f7 created(1,5)
+Constructeur 2 de Square : Square e1 created(7,4)
+youre mooving a pawn
+current piece  ♙ 
+Constructeur 2 de Square : Square g7 created(1,6)
+Constructeur 2 de Square : Square e1 created(7,4)
+youre mooving a pawn
+current piece  ♙ 
+Constructeur 2 de Square : Square h7 created(1,7)
+Constructeur 2 de Square : Square e1 created(7,4)
+youre mooving a pawn
+current piece  ♙ 
+Constructeur 2 de Square : Square d5 created(3,3)
+Constructeur 2 de Square : Square e1 created(7,4)
+youre mooving a pawn
+coup bien joué, on change de personne
+
+     a     b     c     d     e     f     g     h    
+  +-----+-----+-----+-----+-----+-----+-----+-----+
+8 |  ♖  |  ♘  |  ♗  |  ♕  |  ♔  |  ♗  |  ♘  |  ♖  |
+  +-----+-----+-----+-----+-----+-----+-----+-----+
+7 |  ♙  |  ♙  |  ♙  |     |  ♙  |  ♙  |  ♙  |  ♙  |
+  +-----+-----+-----+-----+-----+-----+-----+-----+
+6 |     |     |     |     |     |     |     |     |
+  +-----+-----+-----+-----+-----+-----+-----+-----+
+5 |     |  ♝  |     |  ♙  |     |     |     |     |
+  +-----+-----+-----+-----+-----+-----+-----+-----+
+4 |     |     |     |     |  ♟  |     |     |     |
+  +-----+-----+-----+-----+-----+-----+-----+-----+
+3 |     |     |     |     |     |     |     |     |
+  +-----+-----+-----+-----+-----+-----+-----+-----+
+2 |  ♟  |  ♟  |  ♟  |  ♟  |     |  ♟  |  ♟  |  ♟  |
+  +-----+-----+-----+-----+-----+-----+-----+-----+
+1 |  ♜  |  ♞  |  ♝  |  ♛  |  ♚  |     |  ♞  |  ♜  |
+  +-----+-----+-----+-----+-----+-----+-----+-----+
+ player Black to play
+Constructeur 1  de Square : Square e8 created en position (0,4)
+Constructeur 1  de Square : Square d7 created en position (1,3)
+you are mooving a KING
+on est la
+00 ♖ 
+01 ♘ 
+02 ♗ 
+03 ♕ 
+05 ♗ 
+06 ♘ 
+07 ♖ 
+10 ♙ 
+11 ♙ 
+12 ♙ 
+13 ♔ 
+king is  ♔ 
+14 ♙ 
+15 ♙ 
+16 ♙ 
+17 ♙ 
+33 ♙ 
+current piece  ♝ 
+Constructeur 2 de Square : Square b5 created(3,1)
+Constructeur 2 de Square : Square d7 created(1,3)
+we are mooving a bishop
+Constructeur 2 de Square : Square c6 created(2,2)
+ok Bishop, you didnt cross any pieces
+you are on check, sry bro
+moove not allowed
+
+     a     b     c     d     e     f     g     h    
+  +-----+-----+-----+-----+-----+-----+-----+-----+
+8 |  ♖  |  ♘  |  ♗  |  ♕  |  ♔  |  ♗  |  ♘  |  ♖  |
+  +-----+-----+-----+-----+-----+-----+-----+-----+
+7 |  ♙  |  ♙  |  ♙  |     |  ♙  |  ♙  |  ♙  |  ♙  |
+  +-----+-----+-----+-----+-----+-----+-----+-----+
+6 |     |     |     |     |     |     |     |     |
+  +-----+-----+-----+-----+-----+-----+-----+-----+
+5 |     |  ♝  |     |  ♙  |     |     |     |     |
+  +-----+-----+-----+-----+-----+-----+-----+-----+
+4 |     |     |     |     |  ♟  |     |     |     |
+  +-----+-----+-----+-----+-----+-----+-----+-----+
+3 |     |     |     |     |     |     |     |     |
+  +-----+-----+-----+-----+-----+-----+-----+-----+
+2 |  ♟  |  ♟  |  ♟  |  ♟  |     |  ♟  |  ♟  |  ♟  |
+  +-----+-----+-----+-----+-----+-----+-----+-----+
+1 |  ♜  |  ♞  |  ♝  |  ♛  |  ♚  |     |  ♞  |  ♜  |
+  +-----+-----+-----+-----+-----+-----+-----+-----+
+ player Black to play
+Constructeur 1  de Square : Square c7 created en position (1,2)
+Constructeur 1  de Square : Square c6 created en position (2,2)
+youre mooving a pawn
+on est la
+00 ♖ 
+01 ♘ 
+02 ♗ 
+03 ♕ 
+04 ♔ 
+king is  ♔ 
+05 ♗ 
+06 ♘ 
+07 ♖ 
+10 ♙ 
+11 ♙ 
+14 ♙ 
+15 ♙ 
+16 ♙ 
+17 ♙ 
+22 ♙ 
+33 ♙ 
+current piece  ♝ 
+Constructeur 2 de Square : Square b5 created(3,1)
+Constructeur 2 de Square : Square e8 created(0,4)
+we are mooving a bishop
+Constructeur 2 de Square : Square c6 created(2,2)
+error, you are passing through a piece (diag move)
+current piece  ♟ 
+Constructeur 2 de Square : Square e4 created(4,4)
+Constructeur 2 de Square : Square e8 created(0,4)
+youre mooving a pawn
+current piece  ♟ 
+Constructeur 2 de Square : Square a2 created(6,0)
+Constructeur 2 de Square : Square e8 created(0,4)
+youre mooving a pawn
+current piece  ♟ 
+Constructeur 2 de Square : Square b2 created(6,1)
+Constructeur 2 de Square : Square e8 created(0,4)
+youre mooving a pawn
+current piece  ♟ 
+Constructeur 2 de Square : Square c2 created(6,2)
+Constructeur 2 de Square : Square e8 created(0,4)
+youre mooving a pawn
+current piece  ♟ 
+Constructeur 2 de Square : Square d2 created(6,3)
+Constructeur 2 de Square : Square e8 created(0,4)
+youre mooving a pawn
+current piece  ♟ 
+Constructeur 2 de Square : Square f2 created(6,5)
+Constructeur 2 de Square : Square e8 created(0,4)
+youre mooving a pawn
+current piece  ♟ 
+Constructeur 2 de Square : Square g2 created(6,6)
+Constructeur 2 de Square : Square e8 created(0,4)
+youre mooving a pawn
+current piece  ♟ 
+Constructeur 2 de Square : Square h2 created(6,7)
+Constructeur 2 de Square : Square e8 created(0,4)
+youre mooving a pawn
+current piece  ♜ 
+Constructeur 2 de Square : Square a1 created(7,0)
+Constructeur 2 de Square : Square e8 created(0,4)
+we are mooving a rock
+Rocks only moove in a straight way
+current piece  ♞ 
+Constructeur 2 de Square : Square b1 created(7,1)
+Constructeur 2 de Square : Square e8 created(0,4)
+Knights dont moove that way
+current piece  ♝ 
+Constructeur 2 de Square : Square c1 created(7,2)
+Constructeur 2 de Square : Square e8 created(0,4)
+we are mooving a bishop
+Bishops only moove in diag
+current piece  ♛ 
+Constructeur 2 de Square : Square d1 created(7,3)
+Constructeur 2 de Square : Square e8 created(0,4)
+queen doesnt moove that way
+current piece  ♚ 
+Constructeur 2 de Square : Square e1 created(7,4)
+Constructeur 2 de Square : Square e8 created(0,4)
+Kings dont moove that way
+current piece  ♞ 
+Constructeur 2 de Square : Square g1 created(7,6)
+Constructeur 2 de Square : Square e8 created(0,4)
+Knights dont moove that way
+current piece  ♜ 
+Constructeur 2 de Square : Square h1 created(7,7)
+Constructeur 2 de Square : Square e8 created(0,4)
+we are mooving a rock
+Rocks only moove in a straight way
+coup bien joué, on change de personne
+
+     a     b     c     d     e     f     g     h    
+  +-----+-----+-----+-----+-----+-----+-----+-----+
+8 |  ♖  |  ♘  |  ♗  |  ♕  |  ♔  |  ♗  |  ♘  |  ♖  |
+  +-----+-----+-----+-----+-----+-----+-----+-----+
+7 |  ♙  |  ♙  |     |     |  ♙  |  ♙  |  ♙  |  ♙  |
+  +-----+-----+-----+-----+-----+-----+-----+-----+
+6 |     |     |  ♙  |     |     |     |     |     |
+  +-----+-----+-----+-----+-----+-----+-----+-----+
+5 |     |  ♝  |     |  ♙  |     |     |     |     |
+  +-----+-----+-----+-----+-----+-----+-----+-----+
+4 |     |     |     |     |  ♟  |     |     |     |
+  +-----+-----+-----+-----+-----+-----+-----+-----+
+3 |     |     |     |     |     |     |     |     |
+  +-----+-----+-----+-----+-----+-----+-----+-----+
+2 |  ♟  |  ♟  |  ♟  |  ♟  |     |  ♟  |  ♟  |  ♟  |
+  +-----+-----+-----+-----+-----+-----+-----+-----+
+1 |  ♜  |  ♞  |  ♝  |  ♛  |  ♚  |     |  ♞  |  ♜  |
+  +-----+-----+-----+-----+-----+-----+-----+-----+
+ player White to play
+you've asked for the end of the game
+end of the game

@@ -32,3 +32,23 @@ jobs /* affiche les processus en arriere plan */
 bg                        /*met en arriere plan un processus */
 fg %indiceprocess         /* met le processus dindice donne en frontgroudn */
 bg %ips
+
+commande "screen", super utile pour gérer un serveur, multifenetrage en console, à voir a ce moment là.
+
+at	executer une commande plus tard une fois
+crontab et cron,  liste des progs et les executer une commande preriodiquement
+
+atq et atrm : lister et supprimer les jobs en attente
+
+tar -cvf nom_archive.tar nom_dossier/		pour créer une archive
+
+gzip monarchive.tar							pour la compresser
+gunzip
+
+
+unzip et unrar  	pour les archives de windows
+
+
+
+
+

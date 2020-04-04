@@ -19,6 +19,10 @@ protected:
   bool already_moved;
   Square pos;
   bool is_pawn;
+  bool is_rock;
+  bool is_bishop;
+  bool is_queen;
+  bool is_king;
 
 public:
   virtual bool movment_legal(Square orig, Square dest) const = 0;
@@ -31,11 +35,25 @@ public:
     this->pos.coord_to_string()<< endl;
     this->is_white = false;
     this->already_moved = false;
+    this->is_rock = false;
+    this->is_bishop = false;
+    this->is_rock = false;
+    this->is_king = false;
     this->is_pawn = _is_pawn;
     string blanc = "White";
     if (this->color.compare("White")== 0)
       this->is_white = true;
+    if( _name.compare(" \u265C ") == 0 || _name.compare(" \u2656 ") == 0)
+      this->is_rock = true;
 
+    if( _name.compare(" \u2657 ") == 0 || _name.compare(" \u265D ") == 0)
+      this->is_bishop = true;
+
+    if( _name.compare(" \u2655 ") == 0 || _name.compare(" \u265B ") == 0)
+      this->is_queen = true;
+
+    if( _name.compare(" \u265A ") == 0 || _name.compare(" \u2654 ") == 0)
+      this->is_king = true;
   }
 
   Piece(string _color, string _name, Square _pos) : name(_name), color(_color),
@@ -60,6 +78,10 @@ public:
   bool get_is_white () const;
   bool get_already_moved () const;
   bool get_is_pawn() const;
+  bool get_is_rock() const;
+  bool get_is_bishop() const;
+  bool get_is_queen() const;
+  bool get_is_king() const;
   void piece_mooved();
   void print () const;
   void set_pos(Square& new_pos);
